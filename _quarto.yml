@@ -1,17 +1,14 @@
 project:
   type: website
-  output-dir: docs   # <-- required for GitHub Pages branch deploy
+  output-dir: docs
 
 website:
   title: "Morris Lab Manual"
   site-url: https://drearlthe4th.github.io/lab-manual/
   search: true
+
 format:
   html:
     theme:
       - cosmo
-      - styles/labmanual.scss
     toc: true
-
-
-
