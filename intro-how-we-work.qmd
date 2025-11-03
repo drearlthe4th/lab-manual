@@ -1,0 +1,94 @@
+---
+bibliography: bibliography.bib
+---
+
+# Introduction {#sec-intro}
+
+We do rigorous quantitative and epidemiologic science to support decision-making for cardiovascular disease treatment and prevention. To the extent possible, we conduct our work using Open Data Science principles, emphasizing scientific excellence (*not perfection*) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.
+
+Our quantitative work is based on sound design principles supported by statistical thinking, using evidence-based approaches to compare among alternatives for study designs and analytic options.
+
+See the next chapter for more detail on our lab culture and philosophy. We are motivated by the following two papers - which provide a blueprint for how we think about the way we do our work:
+
+-   Our path to better science in less time using open data science tools [@lowndes_our_2017]
+-   Good enough practices in scientific computing [@wilson_good_2017]
+
+## Recommended Reading List
+
+-   [Core Concepts in Pharmacoepidemiology](https://onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1099-1557.review-series-core-concepts-pharmacoepidemiology) - a series of papers, published in PDS, which covers critical methodologic concepts in our area
+
+-   [Causal Inference: What if?](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) - an excellent (though dense) online book, by Miguel Hernan and Jamie Robins
+
+## Meetings
+
+The lab has three types of meetings: **project meetings**, **lab meetings** and **1-on-1s** with Dr. Smith
+
+### Project meetings
+
+-   **When we meet**: Depends on the project, but a typical schedule is half an hour every week or 1 hour every other week. The specific day/time may change from semester to semester, depending on schedules of those involved.
+
+-   **How we meet**: In person primarily, but supplemented with Zoom for those unable to make it to campus for a particular meeting. 
+
+-   **What we discuss**: Project goals, progress, barriers, etc.. These are exclusively research-related discussions, focused on the specific project. Content changes over time, as the project matures. 
+
+-   **Who decides what we discuss**: The project lead, in conjunction with Dr. Smith and/or other collaborators. Typically our projects fund at least one student, and that team member designated by Dr. Smith serves as the project lead and coordinates the discussion topics for each meeting. Others engaged in the project should send discussion topics to them, or add to the agenda directly that is maintained on the project-specific channel in CVmedLab Teams.
+
+-   **What you should expect**: If you're engaged in the project, you should expect to present/discuss regularly. You should also expect to contribute to discussions - we all have a unique background and set of experiences that can contribute meaningful insight to the discussion of the project. 
+
+### Lab meetings
+
+-   **When we meet**: For 1 hour, every other week. The specific day/time will often change from semester to semester, depending on lab members schedules, but we aim to find a time that works for everyone.
+
+-   **How we meet**: Lab meetings are in person supplemented with Zoom for those unable to make it to campus. Students, in particular, should try to attend these meetings in person as much as possible.
+
+-   **What we discuss**: Determined by the lab members (and occasionally trumped by Dr. Smith to discuss pressing issues), but generally, these are research-related discussions. Most often, ongoing work in the lab, including, e.g., presenting draft study designs or preliminary analyses for feedback, discussing specific problems with an ongoing project and how we can overcome these. Sometimes topics may not be specific to a particular research project, but instead related concepts. For example, how to respond to reviewer comments, an overview of a new dataset being introduced to the lab, or a tutorial on creating a nice visualization.
+
+-   **Who decides what we discuss**: The lab members. One team member designated by Dr. Smith (typically senior GS or post-doc) coordinates the discussion topics for each lab meeting, and students should send discussion topics to them, or add to the agenda directly that is maintained on the General channel in CVmedLab Teams.
+
+-   **What you should expect**: You should expect to present fairly regularly, both to keep the lab updated on what you're doing, but also because nothing in our world goes perfectly smoothly. If you're not having problems you need to work through, the rest of us probably have concerns. You should also expect to contribute to discussions - we all have a unique background and set of experiences that can contribute meaningful insight to the discussion. Sometimes the ideas we think are the littlest (or possibly even worst) are in fact the most helpful.
+
+### 1-on-1 meetings
+
+-   **When we meet**: For 1 hour, every other week (on the off-week from the whole lab meeting). The specific day/time will often change from semester to semester, depending on your schedule.
+
+-   **How we meet**: Dr. Smith prefers in person, but Zoom is also acceptable, if needed.
+
+-   **What we discuss**: Determined completely by you. This is your opportunity to discuss what is most pressing in your opinion: ongoing research, your IDP, school/class issues, any highlights or difficulties in the past couple of weeks, or just shoot the breeze. If there's something more complicated that you want Dr. Smith to know about/review in advance, make sure he gets this before the meeting (see below for how to get this to him).
+
+## How we give feedback
+
+Feedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is during lab meetings, on research products (e.g., abstracts, posters, papers), and when giving or attending seminars. We expect feedback to be supportive but constructive.
+
+This [resource from UBC](https://scwrl.ubc.ca/student-resources/learning-strategies-for-communicating-science/how-to-give-and-receive-effective-feedback/) does a really great job of outlining the main points of how to give and receive feedback.
+
+## How we share things (and send them to Dr. Smith)
+
+It is useful to have standard ways of sharing things. These don't have to be followed absolutely, but should guide most of what we're sharing and make things easier on the team. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.
+
+Taking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in the paper [@wilson_good_2017] linked above).
+
+Project management tools in Github are a good way to record and document questions on analyses, particularly if you're working in [R](https://cran.r-project.org/) and/or with analytic datasets that can be posted publicly. Use 'Issues' on github repositories for project-related tasks and problems. Unfortunately, that doesn't work for us in many cases due to data privacy/DUA issues with publicly posting patient-level data. Alternatively, make use of a Dropbox (or Teams/Sharepoint) for each project to record this history, much like you would a lab notebook. Ideally, use the CVmedLab Dropbox folder for your project, and keep current versions of your documents there, as well as final versions of submitted materials. 
+
+### Code
+
+Code can be shared in the virtual machines, or alternatively through Teams, Dropbox, or Github repositories. For specific questions on problems, please try to create a [reprex](https://reprex.tidyverse.org/) (minimal **rep**roducible **ex**ample) in R, or similar in SAS. Ensure that others can run and interact with the material being shared if you want help working through kinks.
+
+### Documents/Writing
+
+Manuscripts and similar text documents can be created/shared in [Quarto](https://quarto.org/)/R Markdown, if you're particularly motivated, or alternatively, in Dropbox or Teams. Quarto/R Markdown offer the advantage of being easily/quickly reproducible any time the underlying data change (e.g., w/o having to retype all the particular data points, re-do Tables, etc..). Dropbox allows for collaborative writing, and has the advantage of there only ever being one version (as opposed to files that are sent around via email). Teams/Sharepoint is also acceptable. Email is the least preferred approach for within-team collaboration, and should really be reserved (if needed) for getting comments from collaborators outside of our team. Word documents should always have your last name as the first part of the file name (please no "mythesis.doc" - these invariably get lost in the shuffle).
+
+We maintain a lab Dropbox, as well as Teams sharepoint folder (accessible via Teams) for lab work, presentations, etc. Please make use of these so that others in the lab can make fair use of our work. Final publications will also be linked on our website and posted on the [CVmedLab](https://cvmedlab.org) News section. The departmental/CoDES twitter account will also share publications, if you let them know about new pubs.
+
+## Shared lab resources
+
+Where to find shared resources:
+
+-   Teams/sharepoint: You will be given access to Teams during onboarding; take a look at the General channel, which contains the lab meeting agenda/topics. You can create project-specific channels for your own projects, and add relevant lab members. Teams also offers access to sharepoint for the team, where you can store files.
+
+-   GitHub: [CVmedLab](https://github.com/cvmedlab) is the organizational GitHub account for the lab
+
+-   lab manual: [This repository](https://github.com/cvmedlab/cvmedlab_manual/) contains the lab manual, see @sec-coding for other useful resources
+
+-   Website: Take a look at the lab website, most of its information is duplicated in one of the above resources: <http://www.cvmedlab.org/>
+
+## References {.unnumbered}

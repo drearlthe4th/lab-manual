@@ -1,0 +1,107 @@
+---
+title: "Initial Antihypertensive Regimens in Newly Treated Patients: Real World Evidence from the OneFlorida+ Clinical Research Network"
+
+author: 
+  - name: Steven M. Smith, PharmD, MPH
+    affiliations:
+      - ref: ufpop
+      - ref: ufcard
+      - ref: ufcicmd
+    attributes: 
+      corresponding: true
+  - name: Almut G. Winterstein, PhD
+    affiliations:
+      - ref: ufpop
+  - name: Matthew J. Gurka, PhD
+    affiliations: Department of Pediatrics, College of Medicine, University of Florida
+  - name: Marta G. Walsh, MS
+    affiliations:
+      - ref: ufpop
+  - name: Shailina Keshwani, MS
+    affiliations:
+      - ref: ufpop
+  - name: Anne Libby, PhD
+    affiliations: Department of Emergency Medicine, School of Medicine, University of Colorado Denver
+  - name: William Hogan, MD, MS
+    affiliations: Department of Health Outcomes & Biomedical Informatics, College of Medicine, University of Florida
+  - name: Carl J. Pepine, MD
+    affiliations:
+      - ref: ufcard
+  - name: Rhonda M. Cooper-DeHoff, PharmD, MS
+    affiliations: 
+      - ref: ufcard
+      - ref: ufptr
+        
+affiliations:
+  - id: ufpop
+    name: Department of Pharmaceutical Outcomes & Policy, College of Pharmacy, University of Florida
+    city: Gainesville
+    state: FL
+  - id: ufcard
+    name: Division of Cardiovascular Medicine, Department of Medicine, College of Medicine, University of Florida
+    city: Gainesville
+    state: FL
+  - id: ufptr
+    name: Department of Pharmacotherapy & Translational Research, College of Pharmacy, University of Florida
+    city: Gainesville
+    state: FL
+  - id: ufcicmd
+    name: Center for Integrative Cardiovascular and Metabolic Disease, University of Florida
+    city: Gainesville
+    state: FL
+
+abstract: |
+  Background: Knowledge of real-world antihypertensive use is limited to prevalent hypertension, limiting our understanding of how treatment evolves and its contribution to persistently poor BP control. We sought to characterize antihypertensive initiation among new users. 
+
+  Methods and Results: Using Medicaid and Medicare data from the OneFlorida+ Clinical Research Consortium, we identified new users of ≥1 first-line antihypertensives (angiotensin converting enzyme inhibitor [ACEI], calcium channel blocker [CCB], angiotensin receptor blocker [ARB], thiazide diuretic, or β-blocker) between 2013 and 2021 among adults with diagnosed hypertension, and no antihypertensive fill during the 12 months prior. We evaluated initial antihypertensive regimens by class and drug overall and across study years, and examined variation in antihypertensive initiation across demographic (sex, race, ethnicity), comorbidity (chronic kidney disease, diabetes, and atherosclerotic cardiovascular disease). We identified 143,054 patients initiating 188,995 antihypertensives (75% monotherapy; 25% combination therapy), with mean age, 59 years and 57% of whom were women. The most commonly initiated antihypertensive class overall was ACEIs (39%) followed by β-blockers (31%), CCBs (24%), thiazides (19%), and ARBs (11%). Excepting β-blockers, a single drug accounted for ≥75% of use of each class. β-blocker use decreased (35% to 26%) and CCB use increased (24% to 28%) over the study period, while initiation of most other classes remained relatively stable. We also observed significant differences in antihypertensive selection across demographic and comorbidity strata. 
+
+  Conclusions: These findings indicate substantial variation exists in initial antihypertensive prescribing and there remain significant gaps between current guideline recommendations and real-world implementation in early hypertension care.
+
+citations-hover: true
+
+csl: /assets/templates/papers/jama.csl
+
+fig-cap-location: top
+tbl-cap-location: top
+
+format:
+  docx:
+    reference-doc: assets/templates/papers/custom-reference-doc.docx
+---
+
+# Introduction
+
+Hypertension affects an estimated 120 million individuals in the U.S. and is the leading modifiable risk factor for cardiovascular disease and death. Nearly all of these individuals ultimately require antihypertensive therapy to achieve blood pressure (BP) control, and as a consequence, several antihypertensive drugs are among the most commonly used medications worldwide. Consensus U.S. and international guidelines have long recommended certain antihypertensive classes as 'first-line' therapies -- namely angiotensin-converting enzyme inhibitors (ACEIs), angiotensin receptor blockers (ARBs), thiazide diuretics, calcium channel blockers (CCBs), and, until relatively recently, β-blockers. However, for most patients with uncomplicated hypertension, guidelines generally do not prioritize any of these classes except in select circumstances, leaving prescribers to choose from some 30 to 40 antihypertensive drugs when initiating antihypertensive therapy.
+
+And so on...
+
+# Methods
+
+We conducted a cross-sectional study of initial antihypertensive medication use among individuals with newly-treated hypertension using patient-level data from OneFlorida+ from 2012 through September 2021. The study was approved by the University of Florida Institutional Review Board, with a full waiver of informed consent for research involving data previously collected for non-research purposes. The OneFlorida+ steering committee also approved the study. Data underlying this study may be obtained through the OneFlorida+ Front Door (<https://onefloridaconsortium.org/>) by qualified researchers trained in human subject confidentiality protocols.
+
+## Data Source
+
+OneFlorida+ is one of eight clinical research networks comprising the Patient-Centered Outcomes Research network (PCORnet). OneFlorida+ serves as a data repository for patient-level data from both health system partners and insurers. Administrative claims data for this project included all available Florida Medicaid (Jan 1, 2012 through Sep 30, 2021) and Medicare (Jan 1, 2012 through Dec 31, 2017) data. All data sources are mapped to the PCORnet common data model (version 6.0) to ensure standardization of data elements across sources. Major data elements in the common data model include demographics, enrollment, encounters, diagnoses, procedures, dispensed medications, and deaths. In the present study, we included only Florida Medicaid or Medicare recipients with claims data available. This approach was chosen to minimize misclassification of new antihypertensive users, by ensuring a sustained period of continuous eligibility (≥1 year) without any dispensing history of antihypertensive therapy prior to the index antihypertensive fill.
+
+## Participants and Cohort Development
+
+The study design and data collection are summarized in Figure X. Patients were included if they were aged ≥18 years, dispensed a new antihypertensive medication from ≥1 of 5 'first-line' classes (ACEIs, ARBs, CCBs, thiazide diuretics, or beta blockers) between Dec 31, 2012 and Dec 31, 2017 (for Medicare recipients) or September 30, 2021 (Medicaid recipients), and were continuously enrolled in the respective coverage for 365 days prior to and including the date of first dispensing of the above antihypertensive medication(s). The date of first antihypertensive medication fill was considered the index date, and data for all antihypertensives filled on the index date were collected, even if ≥1 of these newly filled antihypertensives were not 'first-line' classes. Patients filling antihypertensives from second line classes prior to the first fill date of the above first-line classes were not considered new-users and were excluded from the cohort. Eligible antihypertensive drugs are summarized in XXX and a complete list of national drug codes (NDCs) can be downloaded at <https://github.com/ssmithm/rxnorm-drug-lists/tree/master/antihypertensive_drugs>. Patients were also required to have a hypertension diagnosis (ICD-9, 401.X; ICD-10, I10) within the baseline period defined as 365 days prior to and including the index date.
+
+## Data Collection
+
+Baseline characteristics were measured during the baseline period (generally 1 year prior to and including index date), as per the definitions summarized in <<supplement link>>. Demographic information (sex, race, ethnicity, birth date) was drawn from the original claims data demographic files (mapped to the PCORnet common data model); when possible, we supplemented missing values with linked EHR-based data for sex, race, and ethnicity (each patient-reported). Discrepancies between claims and EHR-based demographic data were resolved by giving self-report EHR data primacy. Antihypertensive regimen information was collected for all antihypertensives dispensed on the index date, with antihypertensives grouped into classes as summarized in <<the supplement - linked>>.
+
+## Data Analysis
+
+We summarized baseline characteristics using mean and standard deviation for continuous variables and n (%) for categorical variables in the overall study population and stratified by insurer (Medicaid, Medicare). Within insurance strata, we calculated the proportion of individuals initiating each class and, within class, each drug. In addition to stratifying analyses by insurer, we performed stratified analyses by pre-specified demographic (sex, race, ethnicity) and comorbidity (chronic kidney disease \[CKD\], diabetes, and clinical atherosclerotic cardiovascular disease \[ASCVD\]) strata and assessed differences by calculating standardized mean differences (SMD) between groups. We further assessed use of recommended therapy among Black/African American patients with and without CKD or heart failure (HF), based on explicit recommendations in the current U.S. guidelines (i.e., DHP CCBs or thiazides as preferred initial agents among those without CKD or HF). For patients initiating dual antihypertensive regimens, we calculated the proportion of regimens that were guideline concordant (two first-line antihypertensives from different classes), partially concordant (one first-line and one second-line) or discordant (two second-line agents or two first-line agents from the same class) according to current U.S. guidelines. Finally, we analyzed changes over time in initial antihypertensive regimens by stratifying medication use according to the year of the index date and graphically displaying these data to identify trends in proportion of each class prescribed. The Cochrane-Armitage test was used for trend tests of antihypertensive classes. All data were analyzed with R 4.2.0 (R Foundation, Vienna, Austria).
+
+# Results
+
+Very important findings... 
+
+# Discussion
+
+And so on...
+
+
+

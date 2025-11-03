@@ -1,0 +1,1 @@
+Sitemap: https://cvmedlab.github.io/lab-manual/sitemap.xml

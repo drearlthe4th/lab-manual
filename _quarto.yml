@@ -1,26 +1,28 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: "Morris Research Group"
+book:
+  title: "Morris Research Team Lab Manual"
   site-url: https://drearlthe4th.github.io/lab-manual/
-  search: true
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: people.qmd
-        text: People
-      - href: projects.qmd
-        text: Projects
-      - href: publications.qmd
-        text: Publications
-      - href: lab-manual.qmd
-        text: Lab Manual
-    right:
-      - icon: github
-        href: https://github.com/drearlthe4th/lab-manual
+  chapters:
+    - index.qmd
+    - intro-how-we-work.qmd
+    - culture-philosophy.qmd
+    - code-of-conduct.qmd
+    - onboarding.qmd
+    - expectations.qmd
+    - offboarding.qmd
+    - funding.qmd
+    - communication.qmd
+    - academics.qmd
+    - courses.qmd
+    - conferences.qmd
+    - papers.qmd
+    - computing.qmd
+    - data_resources.qmd
+    - coding_resources.qmd
+
 
 format:
   html:

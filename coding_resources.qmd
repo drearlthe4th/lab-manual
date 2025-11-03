@@ -1,0 +1,199 @@
+# Coding Resources {#sec-coding}
+
+Learning to code for data wrangling and analyses will be a significant component of your education during the MS or PhD program. Some people will take these skills forward and continue using them in their career after graduate training, but even if you don't, use these skills extensively yourself as you move into your career, you will likely be overseeing people who do, and it's good to know general principles of coding, how problems arise in coding that are sometimes difficult to diagnosis, and how to overcome these problems, even if you're not the one directly coding your analyses for the rest of your career.
+
+What will you learn in our program? Primarily [SAS](https://www.sas.com/en_us/home.html) and [R](https://cran.r-project.org/), but you're welcome to explore other platforms as well during your time here.
+
+::: callout-note
+Our program considers [SAS](https://www.sas.com/en_us/home.html) the defacto data wrangling/analysis platform and that's what you'll use/be exposed to in most of the Departmentally-administered courses. It's also commonly used in courses administered by the [Biostatistics Department](https://biostat.ufl.edu/), some of which are required for you during the program.
+
+That said, there's a lot to love about [R](https://cran.r-project.org/), and some good reasons you might want to have this in your repertoire as well. For starters, it's open-source and free, enhanced frequently, and it has an excellent ecosystem of extensions (called "packages") that allow anyone (including you!) to add additional functionality for the R community. Perhaps most importantly, R creates markedly better publication-ready graphics than SAS does, and with less effort.
+:::
+
+Other platforms, for example, [SPSS](https://www.ibm.com/products/spss-statistics) and [python](https://www.python.org/), get some use in our department, but are not particularly widespread, though perhaps that will change (particularly for python) with the new [AI initiatives](https://ai.ufl.edu/) at UF.
+
+## SAS
+
+As noted above, SAS is the primary platform used in our program. We use SAS fairly extensively in our lab's work as well, in part because it's particularly good at working with massive datasets. SAS is available on all of our Virtual Machines/servers, and UF offers discounted annual licenses for SAS (as well as a free cloud-based SAS through [UFApps](https://info.apps.ufl.edu/)) for enrolled students. More info on individual licenses can be found [here](https://software.ufl.edu/software-listings/sas-student-licensing.html) for students and [here](https://software.ufl.edu/software-listings/sas.html) for faculty/postdocs/staff. Note that staff/postdocs should get their license through the Department by contacting Carl Henriksen.
+
+Some folks like working in base SAS by itself. Others prefer SAS Enterprise Guide, which wraps around base SAS and provides some additional functionality. Try each, and see what you prefer.
+
+One downside to SAS is it does not run natively on MacOS, so if you have a Mac, you'll need Parallels, VMware, or similar hardware virtualization to create a windows drive, if you want SAS on your own system. 
+
+### Books
+
+There are lots of good SAS books out there, but here's a couple you might find particularly useful. (\* denotes texts Dr. Smith has electronic copies of and that can be 'checked out' within the lab.)
+
+-   [The little SAS book, 6th ed.](https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/6ad6fc/alma99383273985006597) (you can access this one from campus or on the VPN - Dr. Smith also has a copy of 5th ed.\*) [@delwiche_little_2019]
+
+-   Analysis of Observational Health Care Data using SAS\* [@faries_analysis_2010]
+
+-   Survival analysis with SAS: A practical guide\* [@allison_survival_2010]
+
+### Useful online articles/links/blogs
+
+-   [SAS Procedures by Name](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/allprodsproc/procedures.htm) - This is a must-have bookmark to the official SAS documentation; you will use it often and it's quite helpful.
+
+-   [UCLA Office of Advanced Research Computing tutorials](https://stats.oarc.ucla.edu/sas/) - a good starting place for basics of running relatively simple analyses/data wrangling and interpreting.
+
+-   [UF PHC 6052 course tutorials](https://bolt.mph.ufl.edu/software/sas/phc-6052-sas-tutorials/) - you'll take this class relatively early in the program, but still a useful resource
+
+-   [The DO loop](https://blogs.sas.com/content/iml/) - excellent and very productive blog by Rick Wicklin
+
+-   [LexJansen.com](https://www.lexjansen.com/) - not a particularly user-friendly site, but contains tons of SAS-related papers. Your best bet is just googling your problem, but there's a good chance the top hits will be papers in PDF form on this site.
+
+### Macros
+
+-   [Squeeze](local_resources/squeeze.sas) - shrink datasets by minimizing variable lengths to minimum necessary for the actual dataset
+
+-   \[Magic Macro\] - to add
+
+-   [Basic Dataset Characterization](local_resources/dataset_characterization.sas)
+
+-   [OptionReset](local_resources/OptionReset.sas) - reset default options, if you've somehow mangled yours
+
+-   [ms_freezedata](local_resources/ms_freezedata.sas) - a mini-SENTINEL program macro that creates subsets of patient-level data from a supplied patient id list
+
+-   \[Table 1\] - to add
+
+## R
+
+### Base R
+
+You can download base R for free from C-RAN [here](https://cran.r-project.org/). Make sure you select the correct file for your computer system (and chip, if using a Mac).
+
+::: callout-caution
+# You need base R
+
+You need to install base R, even if you will use R-Studio (recommended). Otherwise, R-Studio won't do you much good.
+:::
+
+Installation should be straight-forward and easy, and you can use defaults. If needed, there are comprehensive instructions ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-admin.html) and [PDF](https://cran.r-project.org/doc/manuals/r-release/R-admin.pdf)) available on C-RAN.
+
+The R development team has some good, if somewhat dense, manuals available at C-RAN [here](https://cran.r-project.org/manuals.html). A good place to start is the Intro to R ([HTML](https://cran.r-project.org/doc/manuals/r-release/R-intro.html) and [PDF](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)).
+
+::: callout-tip
+Base R is updated pretty frequently, but you won't be bugged about it. It's a good idea to check periodically to see if you are behind a few releases. The easiest way to update is to just re-install the new version, using the same process you did the first time around (download the compiled software and re-install; it will write over the old version).
+
+Unlike python, the R development team takes great pains to not break things with any new releases, so it's rare that an update will cause you any problems with old code.
+:::
+
+### R-Studio and extensions
+
+We recommend you use R-studio on top of R. Select the free desktop version [here](https://posit.co/download/rstudio-desktop/) (*note: skip to step 2 since you will have hopefully already installed base R*). Again, make sure you download the correct file for your operating system and note that the website often assumes you run Windows - if you don't, scroll down a bit further to make sure you get the right file for your OS.
+
+Again, installation should be straight-forward and easy, and you can use defaults.
+
+There are some useful extensions for R-studio, but none are absolutely necessary:
+
+-   [Quarto](https://quarto.org/) - useful for generating all sorts of R-markdown, including papers (yes, you could actually write your manuscript in Quarto), technical reports, websites, books (this lab manual was written with Quarto!); the beauty of R-markdown is you can weave together plain text and R code seamlessly into an output document (.html, .docx, .pdf, etc) - that means you can have all of your analysis code re-generate everything automatically any time you make a slight change to the cohort or underlying data.
+    -   One 'to-do' for the lab might be to make a manuscript template which would make writing routine parts of manuscripts considerably easier 🤔
+
+### R packages
+
+::: callout-tip
+# Installing Packages
+
+R packages are installed by typing `install.packages("package_name")` in the interactive window (or in a new script, which is then run). For example, `install.packages("tidyverse")`. You can also install multiple packages at once: `install.packages(c("dplyr","haven","ggplot2","stringr"))`.
+
+You'll sometimes see 'dependencies' installed as well - these are other packages that are required to run the package(s) you're installing. If you get questions about compiling from source, just select No unless you really need that slightly newer version.
+:::
+
+::: {.callout-note collapse="true"}
+# Production vs. Development packages
+
+The below listed packages are all hosted on C-RAN and can be installed with the `install.packages()` function. You may come across packages in development that you want to install, or development versions of established packages that have not been pushed to C-RAN yet. These can usually be installed from, e.g., github, using the devtools package, with something like `devtools::install_github("github_user/package_name")` and typically the package will supply a similar instruction if you find the associated webpage or github page.
+:::
+
+#### Data wrangling {.unnumbered}
+
+The following packages are particularly useful for dealing with raw data as well as basic analyses:
+
+-   [tidyverse](https://www.tidyverse.org/) - a suite of packages that make R considerably easier to learn for the new user (in our opinion); bonus points because they're supported by Posit (makers of R-Studio) and are constantly being improved, unlike some packages which eventually languish. We suggest installing the entire tidyverse with `install.packages("tidyverse")` but you can also install components of the tidyverse individually
+
+    -   [haven](https://haven.tidyverse.org/) - useful functions to read in SAS files
+    -   [ggplot2](https://ggplot2.tidyverse.org/) - excellent graphics program - see below.
+    -   [dplyr](https://dplyr.tidyverse.org/) - data manipulation
+    -   [purrr](https://purr.tidyverse.org/) - enhanced functional programming
+    -   [stringr](https://stringr.tidyverse.org/) - tools for working with strings
+    -   [reprex](https://reprex.tidyverse.org/) - tools for creating **rep**roducible **ex**amples
+    -   [forcats](https://forcats.tidyverse.org/) - working with factors
+    -   and more...
+
+-   [data.table](http://rdatatable.gitlab.io/data.table/) - an alternative to working with "tibbles" (dataframes in tidyverse), data.table offers a high-performance (fast) version of base R's data.frame with syntax and feature enhancements; some people prefer `data.table` to tidyverse/tibbles, and once you learn the syntax (which can be a little awkward), it is a pretty useful package, particularly when working with larger datasets like we use
+
+-   [labelled](https://larmarange.github.io/labelled/) - If you've gotten enough experience with R and SAS (or SPSS), you might notice one of the distinct differences: SAS/SPSS allow for labeling variables, R does not. This package provides that functionality to R. You know what your variables are, but for the rest of us who don't, labeling helps a lot
+
+-   [janitor](https://github.com/sfirke/janitor) - has some useful data cleaning functions; nothing super complicated, but it will save you some time, particularly when bringing in messier data
+
+-   More to come...
+
+#### Graphics & Tables {.unnumbered}
+
+-   [ggplot2](https://ggplot2.tidyverse.org/) - comes with tidyverse, so does not need separate installation, but will be your go-to for plotting much of what you'll want.
+
+    -   ggplot2 also has lots of very useful extension, which can be found [here](https://exts.ggplot2.tidyverse.org/gallery/). Some we particularly like include [patchwork](https://github.com/thomasp85/patchwork#patchwork), [ggrepel](https://github.com/slowkow/ggrepel), [ggthemes](https://github.com/jrnold/ggthemes), [ggsci](https://nanx.me/ggsci/), [ggdist](https://mjskay.github.io/ggdist), [ggsignif](https://github.com/const-ae/ggsignif), and [survminer](http://www.sthda.com/english/rpkgs/survminer/) (there are \>100!)
+
+-   [plotly](https://plotly.com/r/getting-started/) - interactive graphics
+
+-   [gt](https://gt.rstudio.com/) - great tables(?) - a tidyverse-syntaxed tables package that has some very nice extensions, see below; note that there are lots of other output table-oriented packages (the [gt page](https://gt.rstudio.com/#how-gt-fits-in-with-other-packages-that-generate-display-tables) lists many of these other packages) - and you may find some of these more to your liking.
+
+-   [gtExtras](https://jthomasmock.github.io/gtExtras/) - extension for {gt} that adds some nifty functionality, including small plots in table rows
+
+-   [gtsummary](https://www.danieldsjoberg.com/gtsummary/) - extension for {gt} for creating summary tables. See Lab Docs on the CVmedLab website for an [example using gtsummary](https://cvmedlab.github.io/labdocs/table1_gtsummary.html).
+
+#### Interactive data presentation {.unnumbered}
+
+-   [shiny](https://shiny.rstudio.com/) - build interactive web apps and dashboards from R
+
+#### Package development {.unnumbered}
+
+Packages come in all shapes and sizes and don't have to be a set of fancy functions to be used by the R community. A common use of R packages is collating everything needed for an analysis/paper (data, notes, analytic code, +/- the paper itself). If you're going to create packages, the following are extremely helpful:
+
+-   [devtools](https://devtools.r-lib.org/) - simplifies common tasks in package development (also helpful in downloading non-C-RAN packages/versions, e.g., from github)
+
+-   [usethis](https://usethis.r-lib.org/) - automates repetitive tasks in package development
+
+#### Analysis {.unnumbered}
+
+Tons of packages in this space, but if you want to stick with the tidyverse, [tidymodels](https://www.tidymodels.org/) is a good choice.
+
+For regression modeling, Frank Harrell's [rms package](https://hbiostat.org/R/rms/) is good and well supported with a website.
+
+#### Color palettes {.unnumbered}
+
+-   [monochromeR](https://github.com/cararthompson/monochromeR)
+
+-   [munsell](https://github.com/cwickham/munsell/)
+
+-   [paletteer](https://github.com/EmilHvitfeldt/paletteer) - most of the R color palettes floating around in space assembled in one package 
+
+#### Other Odds-and-Ends Packages {.unnumbered}
+
+-   [daggity](http://www.dagitty.net/primer/) - for creating DAGs and much more (if you're using ggplot2, you may want to also check out [ggdag](https://ggdag.malco.io/))
+
+-   [Hmisc](https://hbiostat.org/R/Hmisc/) - Frank Harrell's `Hmisc` package with lots of functionality; also works well with his R Workflow (see links below)
+
+### Useful R resources
+
+-   [r4ds](https://r4ds.hadley.nz/) - R for Data Science, by Hadley Wickham, is an excellent, free introduction to R and the tidyverse
+
+-   [Advanced R](https://adv-r.hadley.nz/) - A step up in complexity from r4ds (and best tackled after r4ds), but another excellent book by Hadley Wickham
+
+-   [ggplot2 Book](https://ggplot2-book.org/) - Excellent book, again by Wickham, that overviews ggplot2 capabilities.
+
+-   [Biostatistics for Biomedical Research](https://hbiostat.org/bbrc/) - online course covering lots of statistical (and more broadly, biomedical research) topics from the excellent statistician, Frank Harrell; this is more generally biostatistics-focused, but works through accompanying R code
+
+-   [Harrell's Regression Modeling Stragies Course (RMSC)](https://hbiostat.org/rmsc/) - Frank Harrell's online book/"course" that accompanies the excellent RSM textbook [@harrell_regression_2015]
+
+-   [Harrell's R Workflow](https://www.fharrell.com/post/rflow/)
+
+-   [R pkgs](https://r-pkgs.org/) - Very good book on developing R packages
+
+-   [Big Book of R](https://www.bigbookofr.com/) - A frequently-updated collection of (probably) every single online R text there is; probably most of this stuff will not be useful to you, but if you're looking for something - there's a good chance you can find it here.
+
+## Git/Github
+
+-   [Happy Git with R](https://happygitwithr.com/)
+
+## References {.unnumbered}

@@ -1,0 +1,115 @@
+# Papers {#sec-papers}
+
+Hopefully this is not coming as a surprise, but you will write a lot of papers (manuscripts). It's helpful to have a semi-standard way of putting these together.
+
+::: callout-note
+Although journals sometimes vary in their specific requirements for a submitted manuscript, there is a growing movement in scientific publishing to allow researchers to submit manuscripts with only very basic formatting requirements on the first submission, and if the journal is interested, they will then require more specific formatting requirements on any revisions requested. This is good news for us, as it reduces how much re-formatting we need to do if a manuscript does not get traction at a few journals.
+:::
+
+## General Principles
+
+Some general principles for drafting your manuscript:
+
+-   If you haven't already, check out the CVmedLab lab doc called [Scientific Writing](https://cvmedlab.org/labdocs/writing.html)
+
+-   Each major section of a manuscript should begin on a new page: title page, abstract, introduction, methods, results, discussion, references, tables (each on a new page), and figures (each on a new page).
+
+-   Everything should be Arial font, size 11; every page (except title page) should be double-spaced; title page should be single-spaced
+
+-   Major headings (Introduction, Methods, etc..) should be **bold**. Second-level headings should be *italic*. Third-level headings should be underlined.
+
+-   Pages should be numbered (preferably top right corner).
+
+-   Figures trump tables in terms of presenting all but the simplest data. Figures are much more likely to be re-used by others in presentations, review articles, news articles, etc...
+
+-   Tables come before figures sequentially in the manuscript.
+
+-   Figures should be vector images (.SVG preferably; alternatively, .EPS); these do not lose quality when scaled up (zoomed in on). Both [SAS](https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/lrcon/n0ezld96mjxs08n1lvoj5mtb4opl.htm) and [R](https://ggplot2.tidyverse.org/reference/ggsave.html) can output SVG files fairly easily. If you're designing figures (as opposed to outputting data-based plots), consider [Adobe Illustrator](https://info.apps.ufl.edu/adobeatufapps/) (smallish annual fee) or [draw.io](https://app.diagrams.net/) which is good for creating diagrams (design schematics, flow charts, etc..) and can output SVG files.
+
+-   Regardless of what the journal says, embed figure(s) directly in the manuscript file; if the journal requests that figures be submitted separately, do that also (in addition to embedding them), but keep them embedded either way. This makes it easier for reviewers to see figures at the size you want them to, rather than what the journal's submission software includes them in the PDF as.
+
+-   Most journals allow for unlimited tables/figures in the Supplement. You should consider using a supplement liberally, meaning putting tables/supplements in the figure if you think they'll be of interest to only a limited section of the readership of a journal. Most often, we will include study design figures and patient flow diagrams in these, as well as, e.g., sensitivity analysis results. They also can be used for additional methodologic details if you find the main text Methods section becoming too bloated. Basically, anything potentially of interest to at least some readers (or that can be helpful in mitigating likely reviewer critiques) should go in the Supplement.
+
+-   Everything in the Supplement can be single-space; if the Supplement is particularly long, consider adding a Table of Contents page (page after the title page)
+
+## References
+
+You should familiarize yourself with reference management software, which will make your life immensely easier when writing manuscripts. Dr. Smith prefers [Mendeley](https://www.mendeley.com/) or [Zotero](https://www.zotero.org/), both of which are free. [EndNote web](https://www.myendnoteweb.com/) is also acceptable. The important point is to pick one that works for you. Don't manually edit/re-order references; this will be a waste of your time.
+
+## Manuscript Templates
+
+### Word Doc template
+
+The most common format we work with will be a Word document. Here's a [template](/assets/templates/papers/word_paper_template.dotx) you can use to get started on a manuscript. And, here is a [template for a supplement](/assets/templates/papers/word_supplement_template.dotx). To use, in Word, do File -\> New from Template... -\> Select the saved template file from the above links -\> get to editing.
+
+### Quarto Doc
+
+To do...
+
+## Where We Tend to Publish
+
+Each manuscript has a home, it's just a matter of finding the right home. We list some manuscripts the lab tends to publish in (as well as others in the field), but your particular manuscript may not be ideal for any of these; indeed, the manuscript and the journal need to be a good match, both in terms of content and impact. If you have a good clinical message, consider a clinical journal; if it's more technically/methodologically-oriented, target either an epi-type journal or a methods-type journal. If you have what we expect to be a high impact paper, we should aim for a high impact journal. If it's more moderate impact, we shouldn't waste time with high impact journals - let's find the right match the first time.
+
+This is a skill -- matching your manuscript with a good journal fit -- you should work on developing during your PhD, as it will come in handy in the future in almost any job.
+
+Don't get too hung up on the impact descriptions here, as they are pretty subjective.
+
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+| Focus                       | High Impact                                                 | Moderate Impact                                      | Lower Impact (still solid)                                                        |
++=============================+=============================================================+======================================================+===================================================================================+
+| **Hypertension**            | -   Hypertension                                            | -   American Journal of Hypertension                 | -   Journal of Human Hypertension                                                 |
+|                             |                                                             |                                                      |                                                                                   |
+|                             |                                                             | -   Journal of Hypertension                          | -   Journal of Clinical Hypertension\*                                            |
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Cardiology-General**      | -   Circulation                                             | -   Circulation: Cardiovascular Quality and Outcomes | -   American Heart Journal Plus: Cardiology Research and Practice\*               |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Journal of American College of Cardiology (JACC)        | -   Journal of American Heart Association            | -   Heart                                                                         |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   JAMA: Cardiology                                        | -   International Journal of Cardiology              | -   European Heart Journal - Cardiovascular Pharmacotherapy                       |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   European Heart Journal                                  | -   American Heart Journal                           | -   European Journal of Preventive Cardiology                                     |
+|                             |                                                             |                                                      |                                                                                   |
+|                             |                                                             | -   American Journal of Cardiology                   | -   Cardiovascular Therapeutics                                                   |
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Epi/Pharmacoepi**         | -   American Journal of Public Health                       | -   Drug Safety                                      | -   Pharmacoepidemiology & Drug Safety (arguably higher impact for p-epi studies) |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   European Journal of Epidemiology                        | -   Value in Health                                  | -   Medical Care                                                                  |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   American Journal of Epidemiology                        | -   Journal of Public Health                         |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Journal of Clinical Epidemiology                        | -   Epidemiology                                     |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   International Journal of Epidemiology                   | -   Preventing Chronic Disease                       |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Clinical Epidemiology                                   | -   BMC Public Health                                |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   American Journal of Preventive Medicine                 |                                                      |                                                                                   |
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Informatics**             | -   Journal of the American Medical Informatics Association | -   Bioinformatics                                   |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Lancet Digital Health                                   | -   BMC Medical Informatics and Decision Making      |                                                                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Journal of Biomedical Informatics                       | -   Journal of Medical Internet Research             |                                                                                   |
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+| **Pharmacotherapy-General** | -   European Heart Journal-Cardiovascular Pharmacotherapy   | -   Cardiovascular Drugs and Therapy                 | -   Journal of American Pharmacists Association                                   |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Clinical Pharmacology & Therapeutics                    | -   Annals of Pharmacotherapy                        | -   Journal of American Health -Systems Pharmacists                               |
+|                             |                                                             |                                                      |                                                                                   |
+|                             | -   Pharmacotherapy                                         | -   Clinical Therapeutics                            |                                                                                   |
++-----------------------------+-------------------------------------------------------------+------------------------------------------------------+-----------------------------------------------------------------------------------+
+
+: \*indicates open access (OA)-only journal.
+
+Make sure to discuss with Dr. Smith whether funds are available to support publishing, including open access. We try to build such fees into grants when possible.
+
+::: {.callout-caution}
+# Final note of caution on journal selection
+
+Learn to avoid disreputable journals and publishers. The vast majority of these are open access (OA) only. MDPI is a good example of a publisher that publishes a lot of predatory journals. 
+
+[Think, Check, Submit](https://thinkchecksubmit.org/journals/) offers a nice checklist for assessing journals. Old Dominion University also offers a [helpful set of resources](https://guides.lib.odu.edu/publish/predatory) for identifying predatory journals.
+:::
+
+## Support
+
+The [CICMD](https://cicmd.center.ufl.edu/) offers support for offsetting costs of manuscripts (open access or page fees). Discuss with Dr. Smith whether you should submit a request for funding.

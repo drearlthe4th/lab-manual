@@ -1,0 +1,69 @@
+# Code of Conduct {#sec-code}
+
+
+> **Code of Conduct**  
+> a set of basic ground rules that participants (in our lab) are expected to follow.
+
+The goal of having a code of conduct is to create an open and inclusive space for our work that helps us achieve our collective goals. Along with our lab culture/philosophy, it also provides a benchmark for self-evaluation and helps better define our identity as a community.
+
+**We expect all lab members to adhere to the policies and guidelines outlined here.**
+
+Additional information and resources can be found in the [UF Student Conduct Code and Honor Code](https://policy.ufl.edu/regulation/4-040/) (fair warning, it's long, but does have some important stuff in there).
+
+## Short version
+
+The CVmedLab is dedicated to providing a harassment-free experience for everyone, regardless of age, race, or religion, sex, gender identity and expression, sexual orientation, disability, physical appearance, and so on. We do not tolerate harassment of members in any form. Everyone's here to learn and hopefully succeed, and everyone's worthy of respect.
+
+This code of conduct applies to all lab spaces and interactions, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university's academic policies.
+
+## Longer version
+
+All members of the CVmedLab are expected to:
+
+* Cultivate your curiosity and creativity. Engage with literature. Go to talks. Hone your interests (which can differ from others'). Develop expertise.
+
+* Conduct your research with openness and integrity.
+
+* Represent the lab with pride, and show respect for others; you are now an ambassador for the lab as well as a member – our reputation will be formed in part by how you interact with our colleagues.
+
+* Participate in lab group functions; this means paying attention, asking questions, offering feedback, and using phones and computers only for work that is directly related to the meeting at hand.
+
+* Maintain and treat all lab equipment and space with care; if we are running low on a necessary supply, if software licenses are set to expire, if computers need updating, etc., let Dr. Smith know. Please help to keep shared meeting spaces clean and organized.
+* Show respect for others in the DSIT building; keep noise in the hallways to a minimum, make sure to close/lock doors, etc.
+* Follow all guidelines for research with human participants laid out by the UF Institutional Review Board; be careful with data and ensure that data protections are maintained - we are fortunate to have access to the data we have and don't want to jeopardize that access.
+
+Graduate students in the CVmedLab are expected to:
+
+* Read through the [lab onboarding material](https://labmanual.cvmedlab.org/).
+
+* Commit to a goal of at least five first-authored publications during your time in graduate school (including your dissertation).
+
+* Seek out fellowship/grant/award proposals and apply for those for which you are a good fit. Keep in mind that providing letters of recommendation and feedback on drafts take time and effort on the part of those writing them; do not apply for opportunities for which you do not meet the requirements.
+
+* Present your work at one conference per year (discuss with Dr. Smith funding to attend such meetings).
+
+* Be familiar with and meet the deadlines and benchmarks laid out by the department and/or the COP Grad Programs office. Meeting these deadlines is your responsibility.
+
+* Manage study design, data analysis, and other concrete research challenges
+
+* Look for answers in the literature
+
+* Look for internet resources 
+
+* Solicit advice from your lab mates
+
+* Seek advice from Dr. Smith, who is always happy to discuss issues but it is in everyone's best interest if you work on the problem yourself first
+
+* If we’re still struggling, we’ll go outside of the lab for advice, but please discuss w/ Dr. Smith first.
+
+* Share your expertise, experience, and materials with others working in the lab. There are far greater rewards for being generous with your time and knowledge than for keeping things to yourself in an attempt to prevent others from getting ahead.
+
+* Share responsibility for mentoring more junior students working in the lab. As you advance in the program, mentoring more junior students is an important expectation. 
+
+## Reporting
+
+In the unlikely event that you are being harassed by a member of the lab, or for that matter, anyone else at the university, or you notice that someone else is being harassed, or have any other concerns, please contact [Dr. Smith](mailto:ssmith@cop.ufl.edu). If you do not wish to involve Dr. Smith, please contact [Dr. Rich Segal](mailto:segal@cop.ufl.edu) and/or the [Associate Dean for Research at COP](mailto:jatinderklamba@ufl.edu). We will respond as promptly as we can.
+
+Lab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Florida policies and/or the laws of the stateshould seek assistance from a supervisor or an HR representative. 
+
+**Confidentiality:** Please remember that by way of his position at the university, Dr. Smith is mandated to report under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Smith, but please keep this in mind when doing so. Dr. Smith will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. More information on reporting can be found at the [UF Title IX Reporting website](https://titleix.ufl.edu/report/). 

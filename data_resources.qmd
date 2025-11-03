@@ -1,0 +1,94 @@
+---
+number-depth: 3
+---
+
+# Data Resources {#sec-data}
+
+[POP](https://pop.pharmacy.ufl.edu/)/[CoDES](https://codes.pharmacy.ufl.edu/) have a wealth of data resources that are generally refreshed/updated every 1-2 years, and available to the graduate program, including you. Our lab uses primarily OneFlorida+ data (which includes FL Medicaid), Marketscan, and Medicare. Read on below for info on each. You can access to any/all of the above for your own independent research projects or thesis work, though some have fees attached which you'll need to discuss with Dr. Smith.
+
+Most of these data are housed on ResVault virtual machines or the POP high-performance server. See [Chapter @sec-computing] for more information.
+
+## Electronic Health Record (EHR) data
+
+### OneFlorida+
+
+[OneFlorida+](https://onefloridaconsortium.org/) is one of 11 clinical research networks (CRNs) that comprise the [Patient-Centered Ourcomes Research network (PCORnet)](https://www.pcornet.org/). Quite a bit of our work is done on OneFlorida+ data, or data from OneFlorida+ and other PCORnet CRNs. The good news is they all adhere to the [PCORnet common data model](https://pcornet.org/data/) (scroll to the bottom of the page), which you will need to familiarize yourself with if you're working on OneFl+/PCORnet data. In particular, you'll need to familiarize yourself with the relevant [tables and variables](https://pcornet.org/wp-content/uploads/2022/01/PCORnet-Common-Data-Model-v60-2020_10_221.pdf). If you're unsure whether you'll be working with OneFl+/PCORnet data, ask Dr. Smith.
+
+OneFlorida+ includes EHR data from health system partners across Florida (UF, University of Miami, University of South Florida, Orlando Health, Florida Hospital \[Orlando\], Tallahassee Memorial, and others), as well as University of Alabama-Birmingham (UAB) and Emory University. In addition, it contains Florida Medicaid claims data. Data are generally available from \~2012 onward. As you'll see on reviewing the common data model, the available data are generally structured data (rather than unstructured clinical texts like provider notes, imaging reports, etc..).
+
+### UFHealth data
+
+The [UF integrated data repository](https://idr.ufhealth.org/) is a database of UFHealth EHR data, including both structured and unstructured data. The IDR has an i2b2 implementation which can be used for simple queries, i.e., to find counts of patients that meet certain criteria. The IDR i2b2 implementation can be found [here](https://i2b2.idr.ufhealth.org/) (you'll need to register for an account [here](https://idr.ufhealth.org/research-services/feasibility-cohort-discovery/) and you'll need to be on campus or on the HSC VPN to access i2b2).
+
+We are currently in the process of linking UFHealth data with our Medicare claims data for patients in both data sources.
+
+## Claims data
+
+Major claims data sources housed in POP/CoDES include CMS data and IBM Marketscan. Brief descriptions are below. Additional information can be found [here](https://codes.pharmacy.ufl.edu/resources/data-sources/).
+
+### CMS data (Medicare, Medicaid)
+
+#### Medicaid
+
+Medicaid Analytic eXtract (MAX) and T-MSIS Analytic Files (TAF) data contain claims for medical care and drug benefits received by beneficiaries with Medicaid insurance coverage, the state-run programs for low-income and categorically eligible individuals and families. CoDES has in-house MAX data for over \>120 million beneficiaries residing in the 29 most populous states from 1999-2010 (AL, AR, CA, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MN, MO, MS, NC, NE, NJ, NM, NY, OH, SC, TN, TX, VA, WA, WI, WV) and national data (all 50 states plus the district of Columbia) from 2011-2016.
+
+Medicaid data has been linked to birth certificates from the Florida Department of Health (1999-2014), Texas Department of State Health Services (1999-2012) and New Jersey Department of Health (1999-2010). The entire national Medicaid data set includes validated mother-infant linkages.
+
+#### Medicare
+
+Medicare data include claims for inpatient, skilled care nursing facility, and hospice care (Part A) as well as outpatient care (Part B) and prescription drugs (Part D). CoDES center has a somewhat complicated sample of Medicare, due in part to our desire to link UFHealth EHR data with Medicare data.
+
+Basically, the current sample includes the following:
+
+-   A 5% national Medicare sample (random sample of 5% of Medicare patients nationwide who meet the above criteria for parts A, B, and D) for the years 2011 through 2015 plus 1 million beneficiaries in FL sampled from individuals who reside in the UF Health catchment area (to ensure we could link most UFHealth patients)
+-   A 15% national Medicare beneficiaries plus the entire state of Florida for 2016-2018, totaling \>8 million lives.
+
+We are anticipating continuing to grow the data (additional years).
+
+ResDAC contains excellent [documentation of the Medicare files](https://resdac.org/file-availability), variables, and availability from year-to-year. If you're going to use Medicare data, you'll need to get to know these data dictionaries.
+
+### Marketscan
+
+The IBM Marketscan Commericial claims database includes 2005-2020 health insurance claims for inpatient, outpatient, and outpatient pharmacy encounters, as well as enrollment data from large employers and health plans across the United States who provide healthcare coverage for their employees, their spouses, and dependents. The current dataset includes \>192 million lives.
+
+The Medicare Supplemental data includes 2005-2020 enrollment records along with inpatient, outpatient, ancillary, and drug claims for \>12.9 million retirees in the United States with Medicare supplemental coverage through privately-insured fee-for-service, point-of-service, or capitated health plans.
+
+The Health Risk Assessment (HRA) data includes 2012-2018 self-reported biometric and health-related behavioral data obtained through surveys of employees of large US corporations and health plans. HRA is linked to medical, pharmacy, and enrollment data for these employees in the Commercial claims data (above) and used to examine the relationships between health behaviors/risk and health outcomes or medical expenditures. Linked data is available for about 5% of beneficiaries.
+
+## Others
+
+There's much too much to make this a comprehensive list, but here are some additional data resources that are either publicly-available or available to us by virtue of collaborations within UF, and may be of interest to you/the lab for some of our work.
+
+### Clinical trial/prospective cohort data
+
+-   [NHLBI BioLINCC](https://biolincc.nhlbi.nih.gov/home/) - NHLBI-funded clinical trial and prospective cohort data
+
+    ::: callout-note
+    We currently have access to [SPRINT](https://www.nejm.org/doi/full/10.1056/nejmoa1511939) and [ACCORD](https://www.nejm.org/doi/full/10.1056/nejmoa1001286) trial data - ask Dr. Smith if interested being added to the DUA for these trials
+    :::
+
+-   [INVEST trial](https://jamanetwork.com/journals/jama/fullarticle/197761) - we have access to the INVEST trial data, which was a large international trial (22.5k individuals enrolled) comparing a calcium channel blocker vs. beta-blocker treatment strategy in patients aged ≥50 years with hypertension + coronary artery disease. Includes adjudicated cardivoascular events, as well as all-cause death data through at least 2015.
+
+-   [WISE cohort](https://www.sciencedirect.com/science/article/pii/S0735109799000820?via%3Dihub) - we have access to the Women's Ischemia Syndrome Evaluation (WISE) cohort, which was a multisite prospective cohort study of women with suspected myocardial ischemia.
+
+-   [Women Take Heart](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/414930) - we have access to the Women Take Heart cohort, which was a Chicago-based prospective cohort study of \~8k women without cardiovascular disease, enrolled in 1992 and with death follow-up through at least 2008.
+
+-   [WARRIOR trial](https://www.sciencedirect.com/science/article/abs/pii/S0002870321000776?via%3Dihub) - The Women's IschemiA TRial to Reduce Events In Non-ObstRuctive CAD is a multicenter, prospective, randomized, blinded outcome evaluation (PROBE design) of a pragmatic strategy of intensive medical therapy (incl. ACEI or ARB + statin) vs usual care in 4,422 symptomatic women with ischemia and no obstructive coronary artery disease (INOCA)
+
+### Publicly-Available datasets
+
+The CDC curates a number of valuable datasets that are relatively easy to access and generally offer cleaned, curated datasets that are analysis-ready. Some common ones we use/see in our field include:
+
+-   [All of Us](https://www.researchallofus.org/) - longitudinal data (EHR, biomedical specimens, and surveys) from >500k individuals (eventually 1M patients)
+
+-   [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.htm) - a complex survey design that is completed every 2 years and allows for inference about what is happening across the non-instutitionalized U.S. population
+
+-   [National Ambulatory Medical Care Survey (NAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) - Data provided by *providers* (not patients) about patient visits in a single week of the year; allows for inference about what is happening at outpatient visits in the U.S.
+
+-   [Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/index.html) - state-administered surveys, completed annually, and curated by the CDC
+
+-   And, lots of others from the [National Center for Health Statistics](https://www.cdc.gov/nchs/index.htm)
+
+-   [Medical Expenditure Panel Survey (MEPS)](https://www.meps.ahrq.gov/mepsweb/) - a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States; MEPS is the most complete source of data on the cost and use of health care and health insurance coverage in the U.S.
+
+-   [FDA Adverse Event Reporting System (FAERS)](https://www.fda.gov/drugs/surveillance/questions-and-answers-fdas-adverse-event-reporting-system-faers) - datasets containing Adverse Events reported to the FDA on drugs; there is a similar reporting system administered by DHHS for vaccines, called [VAERS](https://vaers.hhs.gov/)

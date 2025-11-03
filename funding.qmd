@@ -1,0 +1,49 @@
+# Funding {#sec-funding}
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(bsplus)
+```
+
+## Graduate Students
+
+Funding for graduate students in the College of Pharmacy is somewhat complicated (and subject to change). Typically, PhD students are funded by the College/Department for \~1 year (3-5 semesters, depending on the specifics of the student). Thereafter, funding is ultimately the responsibility of the faculty advisor. As a consequence, we do our best to plan ahead, taking students when we think we will have funding to cover them 2-4 years out from acceptance into the program. But, that also means sometimes we are not able to accept students when funding is tight or pending.
+
+For the MS program, students are typically expected to self-fund their program.
+
+When we have grant-funded position openings in the lab, we will post these through the [lab website](https://cvmedlab.org/), [twitter account](https://twitter.com/CVmedLab/), and via other distribution feeds. Current members will be encouraged to reach out to their network to advertise the position also so that we can get the best candidates possible.
+
+## Pre-doctoral fellowships and similar {.unnumbered}
+
+All students are encouraged to apply for external funding through graduate scholarships. This is an important experience: being able to succinctly define and support your research proposal is a critical skill to gain. But, in addition to that, there is financial incentive for you: The COP gives you a sizable (several thousand) lump sum cash bonus if you are awarded the fellowship. Here are some relevant fellowship opportunities for our group:
+
+-   [NIH F31](https://researchtraining.nih.gov/programs/fellowships/F31) pre-doctoral grants `r bs_button("U.S. citizens only", button_type = "default", button_size = "small")`
+
+<!-- -   [NIH F31 diversity supplement](https://researchtraining.nih.gov/programs/fellowships/F31-diversity) pre-doctoral grants `r bs_button("U.S. citizens only", button_type = "default", button_size = "small")` -->
+-   [American Heart Association pre-doctoral fellowships](https://professional.heart.org/en/research-programs/application-information/predoctoral-fellowship)
+
+-   [PhRMA Foundation pre-doctoral fellowships](https://www.phrmafoundation.org/awards/pre-doctoral-fellowship-awards/) -- see especially the [Health Outcomes-focused fellowship](https://www.phrmafoundation.org/awards/pre-doctoral-fellowship-awards/value-assessment-health-outcomes/)
+
+-   [AFPE pre-doctoral fellowship](https://afpepharm.org/index.php/pre-doctoral-fellowships/)
+
+-   [ACCP Foundation Futures Grants](https://www.accpfoundation.org/futures/) `r bs_button("PharmDs only", button_type = "info", button_size = "small")`
+
+-   Additional funding opportunities will be relayed to the group as they surface
+
+## Post-docs
+
+Funding for post-docs is entirely the responsibility of the PI. Accordingly, we typically try to include postdoctoral funding on grant proposals, and hire as these proposals are funded. Positions will be advertised, as above. 
+
+On rare occasions when post-docs are hired absent existing grant funding, post-docs will be expected to pursue extramural funding, e.g., through: 
+
+-   [NIH F32 postdoctoral grants](https://researchtraining.nih.gov/programs/fellowships/F32) `r bs_button("U.S. citizens only", button_type = "default", button_size = "small")`
+
+-   [AHA post-doctoral fellowships](https://professional.heart.org/en/research-programs/application-information/postdoctoral-fellowship)
+
+-   [PhRMA Foundation post-doctoral fellowships](https://www.phrmafoundation.org/awards/post-doctoral-fellowships/) -- see especially the [Health Outcomes fellowship](https://www.phrmafoundation.org/awards/post-doctoral-fellowships/value-assessment-health-outcomes/)
+
+## Travel funding
+
+Many/most of the conferences we attend offer travel grants/scholarships for students presenting research. Students are strongly encouraged to apply for these, whenever applicable. In addition, there are often local resources available for covering costs of travel, including from the [Center for Integrative Cardiovascular and Metabolic Disease](http://cicmd.center.ufl.edu/resources-2/cicmd-travel-awards-forms/), which Dr. Smith helps run.

@@ -1,14 +1,10 @@
----
-title: "Welcome"
----
+# Welcome! {#sec-welcome}
 
-::: {.lead}
-We generate decision-ready real-world evidence in pharmacoepidemiology and medication safety.
-:::
+The focus of our work centers around studying effectiveness and safety of cardiovascular medications as well as the cardiovascular effects of other (non-cardiovascular) medications, with a focus on observational data methods and, to a lesser extent, clinical trials. More about our group's research activity can be found on our [website](https://cvmedlab.github.io/).
 
-### Highlights
-- Antihypertensive deprescribing & fall risk in older adults
-- Medical cannabis safety & cardiovascular outcomes
-- Prescribing cascades and polypharmacy
+This lab manual is intended to provide an overview for lab members and others about how we work and our expectations for our team. It is also a space to document institutional knowledge about procedures and available resources. If you have suggestions for additions or changes, please contact [Dr. Smith](mailto:ssmith@cop.ufl.edu) or, if you're already github-savvy, make a pull request 👉 [{{< fa brands github size=lg >}}](https://github.com/cvmedlab/cvmedlab_manual/).
 
-**Start here:** Read our [Lab Manual](lab-manual.qmd) for how we work, or see our [Projects](projects.qmd).
+
+------------------------------------------------------------------------
+
+[![](assets/creative_commons.png){width="70" height="25"}](http://creativecommons.org/licenses/by/4.0/){fig-alt="Creative Commons License"} This book is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)

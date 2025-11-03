@@ -1,23 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drearlthe4th.github.io/lab-manual/people.html</loc>
-    <lastmod>2025-11-03T21:40:43.671Z</lastmod>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/index.html</loc>
+    <lastmod>2024-05-16T04:25:22.215Z</lastmod>
   </url>
   <url>
-    <loc>https://drearlthe4th.github.io/lab-manual/publications.html</loc>
-    <lastmod>2025-11-03T21:41:56.353Z</lastmod>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/intro-how-we-work.html</loc>
+    <lastmod>2024-05-21T04:44:13.884Z</lastmod>
   </url>
   <url>
-    <loc>https://drearlthe4th.github.io/lab-manual/projects.html</loc>
-    <lastmod>2025-11-03T21:41:26.780Z</lastmod>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/culture-philosophy.html</loc>
+    <lastmod>2024-05-16T03:52:12.302Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/code-of-conduct.html</loc>
+    <lastmod>2024-05-20T01:44:35.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/onboarding.html</loc>
+    <lastmod>2024-05-16T03:48:11.504Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/expectations.html</loc>
+    <lastmod>2024-05-21T04:44:11.639Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/offboarding.html</loc>
+    <lastmod>2024-05-21T03:52:06.758Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/funding.html</loc>
+    <lastmod>2025-04-12T04:34:31.188Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/communication.html</loc>
+    <lastmod>2024-05-16T04:23:55.392Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/academics.html</loc>
+    <lastmod>2024-02-24T06:08:26.040Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/courses.html</loc>
+    <lastmod>2022-12-17T00:37:06.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/conferences.html</loc>
+    <lastmod>2025-04-12T04:40:55.885Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/papers.html</loc>
+    <lastmod>2022-12-15T04:47:40.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/computing.html</loc>
+    <lastmod>2022-12-03T15:54:41.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/data_resources.html</loc>
+    <lastmod>2022-12-23T03:48:40.605Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/coding_resources.html</loc>
+    <lastmod>2022-12-07T19:31:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cvmedlab.github.io/cvmedlab_manual/CVmedLab-Manual.pdf</loc>
+    <lastmod>2023-01-04T17:16:32.130Z</lastmod>
   </url>
   <url>
     <loc>https://drearlthe4th.github.io/lab-manual/index.html</loc>
-    <lastmod>2025-11-03T21:37:51.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://drearlthe4th.github.io/lab-manual/about.html</loc>
-    <lastmod>2025-11-03T21:24:04.184Z</lastmod>
+    <lastmod>2025-04-12T04:47:16.000Z</lastmod>
   </url>
 </urlset>

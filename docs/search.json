@@ -1,79 +1,897 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "Earl Morris, PhD — Pharmacoepidemiology & medication safety"
-  },
-  {
-    "objectID": "people.html#principal-investigator",
-    "href": "people.html#principal-investigator",
-    "title": "People",
-    "section": "",
-    "text": "Earl Morris, PhD — Pharmacoepidemiology & medication safety"
-  },
-  {
-    "objectID": "people.html#students-trainees",
-    "href": "people.html#students-trainees",
-    "title": "People",
-    "section": "Students & Trainees",
-    "text": "Students & Trainees\n\nAdd names, roles, and 1–2 line bios."
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\nAdd placements and dates.\n\n\n\n\n\n\n\n\nTip\n\n\n\nKeep this page current—prospective students look here first."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Add selected publications here (short list).\nLink to full list on Google Scholar / ORCID.\n\n\nCitation style\nYou can maintain a references.bib and render a formatted list with quarto-biblio later."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Antihypertensive deprescribing after falls — EHR + claims phenotyping, NLP rationale extraction, multilevel modeling.\nMedical cannabis & cardiovascular outcomes — Case-time-control, cohort studies using Medicare/Medicaid."
-  },
-  {
-    "objectID": "projects.html#ongoing",
-    "href": "projects.html#ongoing",
-    "title": "Projects",
-    "section": "",
-    "text": "Antihypertensive deprescribing after falls — EHR + claims phenotyping, NLP rationale extraction, multilevel modeling.\nMedical cannabis & cardiovascular outcomes — Case-time-control, cohort studies using Medicare/Medicaid."
-  },
-  {
-    "objectID": "projects.html#completed",
-    "href": "projects.html#completed",
-    "title": "Projects",
-    "section": "Completed",
-    "text": "Completed\n\nAdd short summaries with links to outputs."
-  },
-  {
-    "objectID": "projects.html#get-involved",
-    "href": "projects.html#get-involved",
-    "title": "Projects",
-    "section": "Get involved",
-    "text": "Get involved\n\nExpectations, typical timelines, and contact info."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Morris Research Team Lab Manual",
     "section": "",
-    "text": "We generate decision-ready real-world evidence in pharmacoepidemiology and medication safety.\n\n\nHighlights\n\nAntihypertensive deprescribing & fall risk in older adults\nMedical cannabis safety & cardiovascular outcomes\nPrescribing cascades and polypharmacy\n\nStart here: Read our Lab Manual for how we work, or see our Projects."
+    "text": "Welcome!\nThe focus of our work centers around studying effectiveness and safety of cardiovascular medications as well as the cardiovascular effects of other (non-cardiovascular) medications, with a focus on observational data methods and, to a lesser extent, clinical trials. More about our group’s research activity can be found on our website.\nThis lab manual is intended to provide an overview for lab members and others about how we work and our expectations for our team. It is also a space to document institutional knowledge about procedures and available resources. If you have suggestions for additions or changes, please contact Dr. Smith or, if you’re already github-savvy, make a pull request 👉 .\n\n This book is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "intro-how-we-work.html#meetings",
+    "href": "intro-how-we-work.html#meetings",
+    "title": "2  Introduction",
+    "section": "2.2 Meetings",
+    "text": "2.2 Meetings\nThe lab has three types of meetings: project meetings, lab meetings and 1-on-1s with Dr. Smith\n\n2.2.1 Project meetings\n\nWhen we meet: Depends on the project, but a typical schedule is half an hour every week or 1 hour every other week. The specific day/time may change from semester to semester, depending on schedules of those involved.\nHow we meet: In person primarily, but supplemented with Zoom for those unable to make it to campus for a particular meeting.\nWhat we discuss: Project goals, progress, barriers, etc.. These are exclusively research-related discussions, focused on the specific project. Content changes over time, as the project matures.\nWho decides what we discuss: The project lead, in conjunction with Dr. Smith and/or other collaborators. Typically our projects fund at least one student, and that team member designated by Dr. Smith serves as the project lead and coordinates the discussion topics for each meeting. Others engaged in the project should send discussion topics to them, or add to the agenda directly that is maintained on the project-specific channel in CVmedLab Teams.\nWhat you should expect: If you’re engaged in the project, you should expect to present/discuss regularly. You should also expect to contribute to discussions - we all have a unique background and set of experiences that can contribute meaningful insight to the discussion of the project.\n\n\n\n2.2.2 Lab meetings\n\nWhen we meet: For 1 hour, every other week. The specific day/time will often change from semester to semester, depending on lab members schedules, but we aim to find a time that works for everyone.\nHow we meet: Lab meetings are in person supplemented with Zoom for those unable to make it to campus. Students, in particular, should try to attend these meetings in person as much as possible.\nWhat we discuss: Determined by the lab members (and occasionally trumped by Dr. Smith to discuss pressing issues), but generally, these are research-related discussions. Most often, ongoing work in the lab, including, e.g., presenting draft study designs or preliminary analyses for feedback, discussing specific problems with an ongoing project and how we can overcome these. Sometimes topics may not be specific to a particular research project, but instead related concepts. For example, how to respond to reviewer comments, an overview of a new dataset being introduced to the lab, or a tutorial on creating a nice visualization.\nWho decides what we discuss: The lab members. One team member designated by Dr. Smith (typically senior GS or post-doc) coordinates the discussion topics for each lab meeting, and students should send discussion topics to them, or add to the agenda directly that is maintained on the General channel in CVmedLab Teams.\nWhat you should expect: You should expect to present fairly regularly, both to keep the lab updated on what you’re doing, but also because nothing in our world goes perfectly smoothly. If you’re not having problems you need to work through, the rest of us probably have concerns. You should also expect to contribute to discussions - we all have a unique background and set of experiences that can contribute meaningful insight to the discussion. Sometimes the ideas we think are the littlest (or possibly even worst) are in fact the most helpful.\n\n\n\n2.2.3 1-on-1 meetings\n\nWhen we meet: For 1 hour, every other week (on the off-week from the whole lab meeting). The specific day/time will often change from semester to semester, depending on your schedule.\nHow we meet: Dr. Smith prefers in person, but Zoom is also acceptable, if needed.\nWhat we discuss: Determined completely by you. This is your opportunity to discuss what is most pressing in your opinion: ongoing research, your IDP, school/class issues, any highlights or difficulties in the past couple of weeks, or just shoot the breeze. If there’s something more complicated that you want Dr. Smith to know about/review in advance, make sure he gets this before the meeting (see below for how to get this to him).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html#how-we-give-feedback",
+    "href": "intro-how-we-work.html#how-we-give-feedback",
+    "title": "2  Introduction",
+    "section": "2.3 How we give feedback",
+    "text": "2.3 How we give feedback\nFeedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is during lab meetings, on research products (e.g., abstracts, posters, papers), and when giving or attending seminars. We expect feedback to be supportive but constructive.\nThis resource from UBC does a really great job of outlining the main points of how to give and receive feedback.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html#how-we-share-things-and-send-them-to-dr.-smith",
+    "href": "intro-how-we-work.html#how-we-share-things-and-send-them-to-dr.-smith",
+    "title": "2  Introduction",
+    "section": "2.4 How we share things (and send them to Dr. Smith)",
+    "text": "2.4 How we share things (and send them to Dr. Smith)\nIt is useful to have standard ways of sharing things. These don’t have to be followed absolutely, but should guide most of what we’re sharing and make things easier on the team. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.\nTaking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in the paper (Wilson et al. 2017) linked above).\nProject management tools in Github are a good way to record and document questions on analyses, particularly if you’re working in R and/or with analytic datasets that can be posted publicly. Use ‘Issues’ on github repositories for project-related tasks and problems. Unfortunately, that doesn’t work for us in many cases due to data privacy/DUA issues with publicly posting patient-level data. Alternatively, make use of a Dropbox (or Teams/Sharepoint) for each project to record this history, much like you would a lab notebook. Ideally, use the CVmedLab Dropbox folder for your project, and keep current versions of your documents there, as well as final versions of submitted materials.\n\n2.4.1 Code\nCode can be shared in the virtual machines, or alternatively through Teams, Dropbox, or Github repositories. For specific questions on problems, please try to create a reprex (minimal reproducible example) in R, or similar in SAS. Ensure that others can run and interact with the material being shared if you want help working through kinks.\n\n\n2.4.2 Documents/Writing\nManuscripts and similar text documents can be created/shared in Quarto/R Markdown, if you’re particularly motivated, or alternatively, in Dropbox or Teams. Quarto/R Markdown offer the advantage of being easily/quickly reproducible any time the underlying data change (e.g., w/o having to retype all the particular data points, re-do Tables, etc..). Dropbox allows for collaborative writing, and has the advantage of there only ever being one version (as opposed to files that are sent around via email). Teams/Sharepoint is also acceptable. Email is the least preferred approach for within-team collaboration, and should really be reserved (if needed) for getting comments from collaborators outside of our team. Word documents should always have your last name as the first part of the file name (please no “mythesis.doc” - these invariably get lost in the shuffle).\nWe maintain a lab Dropbox, as well as Teams sharepoint folder (accessible via Teams) for lab work, presentations, etc. Please make use of these so that others in the lab can make fair use of our work. Final publications will also be linked on our website and posted on the CVmedLab News section. The departmental/CoDES twitter account will also share publications, if you let them know about new pubs.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html#shared-lab-resources",
+    "href": "intro-how-we-work.html#shared-lab-resources",
+    "title": "2  Introduction",
+    "section": "2.5 Shared lab resources",
+    "text": "2.5 Shared lab resources\nWhere to find shared resources:\n\nTeams/sharepoint: You will be given access to Teams during onboarding; take a look at the General channel, which contains the lab meeting agenda/topics. You can create project-specific channels for your own projects, and add relevant lab members. Teams also offers access to sharepoint for the team, where you can store files.\nGitHub: CVmedLab is the organizational GitHub account for the lab\nlab manual: This repository contains the lab manual, see Chapter 16 for other useful resources\nWebsite: Take a look at the lab website, most of its information is duplicated in one of the above resources: http://www.cvmedlab.org/",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html#references",
+    "href": "intro-how-we-work.html#references",
+    "title": "2  Introduction",
+    "section": "References",
+    "text": "References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nat Ecol Evol 1 (6): 1–7. https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#ask-for-help-and-share-your-learning",
+    "href": "culture-philosophy.html#ask-for-help-and-share-your-learning",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.1 Ask for help, and share your learning",
+    "text": "3.1 Ask for help, and share your learning\nWe are all learners, and most of our learning is done from each other. It is inefficient to struggle through problems alone. Take advantage of the team, as well as the larger GS program. Ask for and give assistance with appropriate cognizance of the value of your time and the time of the person you are asking. You are not the first or last person to encounter a problem. When you identify a problem add an issue to the lab issues repository, and update it with solutions when it is resolved. Also consider writing a tutorial/blog post for inclusion in our lab’s shared resources, and share with the larger community by tweeting, leading and sharing at a lab meeting, or running a workshop (Quantfish woRkshop group, SouthCoast useR group, etc)."
+  },
+  {
+    "objectID": "culture-philosophy.html#make-yourself-available",
+    "href": "culture-philosophy.html#make-yourself-available",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.2 Make yourself available",
+    "text": "3.2 Make yourself available\nBe responsive to communication, and make time for things that address longer term goals, even when busy. For example, do not skip on things like attending seminars just because you have a big deadline looming (see note below on planning and organization). Note that being available does not mean that you are available 24/7 - this is not expected. Because as a group we value the role of collaboration and interaction in improving our work, it is expected that you be available in the office/campus during normal business hours for some time during the week (see section on attendance expectations).",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#come-prepared-and-be-engaged",
+    "href": "culture-philosophy.html#come-prepared-and-be-engaged",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.3 Come prepared and be engaged",
+    "text": "3.3 Come prepared and be engaged\nValue your time. Be present during lab and individual meetings, and come to your work ready to do your work. Contribute and participate in planning and lab discussions. When it is your turn to run a meeting, come with an agenda and be prepared with questions. Aim to view meetings as events that contribute to your work and productivity, rather than taking away from them.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#celebrate-accomplishments-yours-others",
+    "href": "culture-philosophy.html#celebrate-accomplishments-yours-others",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.4 Celebrate accomplishments (yours & others’)",
+    "text": "3.4 Celebrate accomplishments (yours & others’)\nYou and your colleagues work hard. Things don’t always go exactly as planned. Be supportive and proud of yourself and your peers when you accomplish things. We are not competing with each other - someone else’s success does not mean your failure. Share your accomplishments with others!",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#sustain-a-positive-safe-learning-environment",
+    "href": "culture-philosophy.html#sustain-a-positive-safe-learning-environment",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.5 Sustain a positive, safe learning environment",
+    "text": "3.5 Sustain a positive, safe learning environment\nWe’re here to learn and grow as scientists. Everyone learns something for the first time at some time, and people learn in different ways. Expressing that you don’t know something is OK - good, even! - this is a University after all. Nevertheless, we understand that this can make you feel vulnerable. We strive to maintain a culture that allows for and encourages this vulnerability. Community members should not be disparaged for not knowing things, and in addition, should not be disparaged for knowing things or wanting to learn. That’s precisely why we’re all here.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#have-an-interdisciplinary-open-mindset",
+    "href": "culture-philosophy.html#have-an-interdisciplinary-open-mindset",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.6 Have an interdisciplinary (open) mindset",
+    "text": "3.6 Have an interdisciplinary (open) mindset\nIt’s quite rare that any one person has the necessary clinical and methodologic expertise to go at a project alone. It’s even rare that a single person has the necessary experience/knowledge to sufficiently cover one of those arms. We collaborate, both within the CVmedLab, as well as outside it, because we most often work on problems that span multiple disciplines. Co-creation of knowledge requires transdisciplinary approaches that can result in solutions that would not be possible with siloing. You will be collaborating with others who have different types of expertise, values, and terminology. Trust the expertise of others and actively seek feedback recognizing the importance of specialization.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#be-mindful-and-aware-of-your-own-biases",
+    "href": "culture-philosophy.html#be-mindful-and-aware-of-your-own-biases",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.7 Be mindful and aware of your own biases",
+    "text": "3.7 Be mindful and aware of your own biases\nWe all have biases that are inherent and can not be removed, but we can still work on both being less biased, and more aware of bias in ourselves and others.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#plan-with-intention-and-follow-through",
+    "href": "culture-philosophy.html#plan-with-intention-and-follow-through",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.8 Plan with intention, and follow through",
+    "text": "3.8 Plan with intention, and follow through\nBe organized and adaptable. Things don’t always go as planned and that’s OK. Planning can help you adapt when they don’t (see Section 3.3). Find a program/project management approach that works for you (see Chapter 2); being organized can reduce stress immensely and help you progress with your goals.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#foster-inclusivity-within-our-group-and-greater-community",
+    "href": "culture-philosophy.html#foster-inclusivity-within-our-group-and-greater-community",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.9 Foster inclusivity within our group and greater community",
+    "text": "3.9 Foster inclusivity within our group and greater community\nPart of our lab culture is that we are good citizens of our community, we take on leadership roles, when feasible, within UFCOP and the University, we are supportive of others in our community during their milestones, we actively participate in COP/POP events (e.g., seminar, college talks, etc) and perform outreach. Work with Dr. Smith when crafting your individual mentoring/development plans (see Chapter 5) to identify what you want to (re-)aim your efforts at.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#promote-and-sustain-healthy-work-life-integration",
+    "href": "culture-philosophy.html#promote-and-sustain-healthy-work-life-integration",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.10 Promote and sustain healthy work-life integration",
+    "text": "3.10 Promote and sustain healthy work-life integration\nOur scientific research is not the only important thing in our lives, and publishing research is not the only mechanism by which to provide science and support our communities. We recognize the importance of our other commitments in keeping us healthy (mentally and physically) and bring our whole selves to our efforts. Try not to normalize overwork or being busy as achievement or status. Plan downtime for yourself to recuperate. Take time off during the summer. Work is work - it’s not you’re entire life.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#practice-radical-candor",
+    "href": "culture-philosophy.html#practice-radical-candor",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.11 Practice radical candor",
+    "text": "3.11 Practice radical candor\nWe care personally while also challenging directly. Be honest when communicating, accept critical (but kind) feedback, and give the same to others. View relationships within the group as collaborative rather than evaluative. Don’t take constructive criticism personally. No one is critiquing you, the person; we’re focused on making (and communicating) the science optimally.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#acknowledge-and-give-credit",
+    "href": "culture-philosophy.html#acknowledge-and-give-credit",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.11 Acknowledge and give credit",
+    "text": "3.11 Acknowledge and give credit\nWorking as part of a team, we will almost always be building on work done by others, receive assistance with work (see Section 3.1), and using others’ words, code, philosophy, or content. Include acknowledgement and give credit for those contributions, in all forms of communication. We share content and code within the group with this expectation. One easy approach is to include hyperlinks to the work of others or their social media in your work. This also helps to amplify their work (and voice) as well as yours.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#short-version",
+    "href": "code-of-conduct.html#short-version",
+    "title": "4  Code of Conduct",
+    "section": "4.1 Short version",
+    "text": "4.1 Short version\nThe CVmedLab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.\nThis code of conduct applies to all lab spaces and interactions, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies."
+  },
+  {
+    "objectID": "code-of-conduct.html#longer-version",
+    "href": "code-of-conduct.html#longer-version",
+    "title": "4  Code of Conduct",
+    "section": "4.2 Longer version",
+    "text": "4.2 Longer version\nAll members of the CVmedLab are expected to:\n\nCultivate your curiosity and creativity. Engage with literature. Go to talks. Hone your interests (which can differ from others’). Develop expertise.\nConduct your research with openness and integrity.\nRepresent the lab with pride, and show respect for others; you are now an ambassador for the lab as well as a member – our reputation will be formed in part by how you interact with our colleagues.\nParticipate in lab group functions; this means paying attention, asking questions, offering feedback, and using phones and computers only for work that is directly related to the meeting at hand.\nMaintain and treat all lab equipment and space with care; if we are running low on a necessary supply, if software licenses are set to expire, if computers need updating, etc., let Dr. Smith know. Please help to keep shared meeting spaces clean and organized.\nShow respect for others in the DSIT building; keep noise in the hallways to a minimum, make sure to close/lock doors, etc.\nFollow all guidelines for research with human participants laid out by the UF Institutional Review Board; be careful with data and ensure that data protections are maintained - we are fortunate to have access to the data we have and don’t want to jeopardize that access.\n\nGraduate students in the CVmedLab are expected to:\n\nRead through the lab onboarding material.\nCommit to a goal of at least five first-authored publications during your time in graduate school (including your dissertation).\nSeek out fellowship/grant/award proposals and apply for those for which you are a good fit. Keep in mind that providing letters of recommendation and feedback on drafts take time and effort on the part of those writing them; do not apply for opportunities for which you do not meet the requirements.\nPresent your work at one conference per year (discuss with Dr. Smith funding to attend such meetings).\nBe familiar with and meet the deadlines and benchmarks laid out by the department and/or the COP Grad Programs office. Meeting these deadlines is your responsibility.\nManage study design, data analysis, and other concrete research challenges\nLook for answers in the literature\nLook for internet resources\nSolicit advice from your lab mates\nSeek advice from Dr. Smith, who is always happy to discuss issues but it is in everyone’s best interest if you work on the problem yourself first\nIf we’re still struggling, we’ll go outside of the lab for advice, but please discuss w/ Dr. Smith first.\nShare your expertise, experience, and materials with others working in the lab. There are far greater rewards for being generous with your time and knowledge than for keeping things to yourself in an attempt to prevent others from getting ahead.\nShare responsibility for mentoring more junior students working in the lab. As you advance in the program, mentoring more junior students is an important expectation.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#coppop-web-resources",
+    "href": "onboarding.html#coppop-web-resources",
+    "title": "5  Onboarding",
+    "section": "5.1 COP/POP Web resources",
+    "text": "5.1 COP/POP Web resources\nPOP/COP related resources, forms, policies, procedures, calendars, as generally housed on, or linked from the respective websites for POP and COP. A couple of specific COP sites will probably be more helpful to you, including the COP research office and the COP Grad Education office."
+  },
+  {
+    "objectID": "onboarding.html#individual-developmentmentoring-plans",
+    "href": "onboarding.html#individual-developmentmentoring-plans",
+    "title": "5  Onboarding",
+    "section": "5.2 Individual Development/Mentoring plans",
+    "text": "5.2 Individual Development/Mentoring plans\nWithin the first few weeks of joining the program, you will learn about the IDP requirements for the COP graduate program. You should work with Dr. Smith to develop a plan outlining your short, medium, and long term goals early in year 1, and these will need to be revisited at least annually. More on individual developing plans can be found in Chapter @ref(expectations).",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#facilities",
+    "href": "onboarding.html#facilities",
+    "title": "5  Onboarding",
+    "section": "5.3 Facilities",
+    "text": "5.3 Facilities\n\n5.3.1 Office space\nThe CVmedLab has no devoted physical lab. Most of our work is done in virtual space. POP GS students have assigned space in the DSIT graduate student area (6th floor of DSIT). Assigned desks are coordinated by the POP graduate student representative(s). Post-docs and analysts typically have individual or shared office space in the same suite. Dr. Smith’s office is DSIT 6305.\nLab meetings are currently held in shared conference rooms (usually DSIT 6022).\n\n\n5.3.2 Building & suite access\nAccess to the DSIT building is via your GatorOne card (physical or on your phone). You may also hear of it being referred to ‘lenel’ access. Office space is restricted to POP-affiliated individuals, so that only faculty, staff, and students in POP generally have access. This means your stuff is generally safe at your cubicle. But, should you feel a need to lock particularly sensitive items up, you’ll also have access to keyed storage. As we are still fairly new in this space, it’s possible policies change from time to time. But, generally, the suite is locked 24/7, requiring lenel access to enter. The building is open during business hours (e.g., 7 am to 5 pm), but locked to the general public after that. Students (as well as staff/faculty) in our program can access the building/POP suite at any time, as long as they have their GatorOne card (physical or on your phone).\n\n\n5.3.3 Parking and transportation:\nParking on campus is less than optimal, as spaces are limited, fairly expensive, and particularly for students, not very close to DSIT. Most students bus, bike, or walk to campus. Full details for campus parking policies and procedures are on the TAPS webpage.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "6  Expectations",
     "section": "",
-    "text": "About this site"
+    "text": "7 Expectations\nEveryone has their own path in the graduate program, so we’re not looking to place undue burden on making students conform to a very particular path to your MS or PhD degree. That said, there are some expectations on lab members that we hope make things run smoothly.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html",
+    "href": "offboarding.html",
+    "title": "7  Offboarding",
+    "section": "",
+    "text": "7.1 Exit Interview\nSet up a dedicated time to meet with Dr. Smith and/or your main collaborator in the lab (if not a graduate student) to talk about your time in the lab, and to go through the below checklist to make sure these have been done. Besides the checklist, things to talk about include the best part of being in our team, whether you got the support you needed and what could we improve for mentoring and training someone in your role in the future.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html#graduate-students",
+    "href": "funding.html#graduate-students",
+    "title": "8  Funding",
+    "section": "8.1 Graduate Students",
+    "text": "8.1 Graduate Students\nFunding for graduate students in the College of Pharmacy is somewhat complicated (and subject to change). Typically, PhD students are funded by the College/Department for ~1 year (3-5 semesters, depending on the specifics of the student). Thereafter, funding is ultimately the responsibility of the faculty advisor. As a consequence, we do our best to plan ahead, taking students when we think we will have funding to cover them 2-4 years out from acceptance into the program. But, that also means sometimes we are not able to accept students when funding is tight or pending.\nFor the MS program, students are typically expected to self-fund their program.\nWhen we have grant-funded position openings in the lab, we will post these through the lab website, twitter account, and via other distribution feeds. Current members will be encouraged to reach out to their network to advertise the position also so that we can get the best candidates possible."
+  },
+  {
+    "objectID": "funding.html#pre-doctoral-fellowships-and-similar",
+    "href": "funding.html#pre-doctoral-fellowships-and-similar",
+    "title": "8  Funding",
+    "section": "Pre-doctoral fellowships and similar",
+    "text": "Pre-doctoral fellowships and similar\nAll students are encouraged to apply for external funding through graduate scholarships. This is an important experience: being able to succinctly define and support your research proposal is a critical skill to gain. But, in addition to that, there is financial incentive for you: The COP gives you a sizable (several thousand) lump sum cash bonus if you are awarded the fellowship. Here are some relevant fellowship opportunities for our group:\n\nNIH F31 pre-doctoral grants U.S. citizens only\n\n\n\nAmerican Heart Association pre-doctoral fellowships\nPhRMA Foundation pre-doctoral fellowships – see especially the Health Outcomes-focused fellowship\nAFPE pre-doctoral fellowship\nACCP Foundation Futures Grants PharmDs only\nAdditional funding opportunities will be relayed to the group as they surface",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html#post-docs",
+    "href": "funding.html#post-docs",
+    "title": "8  Funding",
+    "section": "8.2 Post-docs",
+    "text": "8.2 Post-docs\nFunding for post-docs is entirely the responsibility of the PI. Accordingly, we typically try to include postdoctoral funding on grant proposals, and hire as these proposals are funded. Positions will be advertised, as above.\nOn rare occasions when post-docs are hired absent existing grant funding, post-docs will be expected to pursue extramural funding, e.g., through:\n\nNIH F32 postdoctoral grants U.S. citizens only\nAHA post-doctoral fellowships\nPhRMA Foundation post-doctoral fellowships – see especially the Health Outcomes fellowship",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html#travel-funding",
+    "href": "funding.html#travel-funding",
+    "title": "8  Funding",
+    "section": "8.3 Travel funding",
+    "text": "8.3 Travel funding\nMany/most of the conferences we attend offer travel grants/scholarships for students presenting research. Students are strongly encouraged to apply for these, whenever applicable. In addition, there are often local resources available for covering costs of travel, including from the Center for Integrative Cardiovascular and Metabolic Disease, which Dr. Smith helps run.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html",
+    "href": "communication.html",
+    "title": "9  Communication",
+    "section": "",
+    "text": "9.1 Curriculum Vitae\nKeep your CV up to date, ideally as things happen (easier to remember right away than once a year, etc..). We share our CVs within the group in the CVmedLab Dropbox Folder (ask Dr. Smith if you don’t have access), both to give each other ideas about what to include, but also having these in one place makes it easier for Dr. Smith and others to reference information from them when needed.\nThere’s no universal approach to CVs, and your CV will change over time, as you gain experience, and as the emphasis of your career changes. The UF Career Center has some guidance for constructing your CV, but don’t feel like it’s absolutely necessary to follow their templates. The important thing is that it’s well-organized, clean (not cluttered), and makes use of white space. Finally, be careful about how much personal information you put on there, as your CV will be shared beyond those who you specifically send it to. You can always supplement personal information in an email or job application, but you probably don’t want your home address or cell phone # out there for everyone to see. If you feel like you need a number, sign up for a Google Voice number that will mask your real cell number.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "academics.html#phd-students",
+    "href": "academics.html#phd-students",
+    "title": "10  Academics",
+    "section": "",
+    "text": "10.1.1 Registration\nAcademic credit registration management in our program is done through the COP Office of Research and Graduate Studies. Registration for each semester takes place about mid-way (sometimes slightly later) through the previous semester and you will receive communication from the Graduate Coordinator for the department on deadlines. It is critical to register promptly to facilitate faculty and institutional planning (and avoid late registration fees). Before registering for each semester, you should meet with Dr. Smith to review your milestone document and discuss registration plans for the forthcoming semester (courses and/or research credits, etc). See Chapter 11 for details on courses available to POP graduate students.\nCourse of study should be selected with the program requirements in mind - but remember that electives are built in, and these should be tailored towards the skills you hope to leave the PhD program with.\nMost students take their core program requirements in the first 1-2 years. Depending on course availability, it is possible coursework may extend into year 3. Keep in mind that required courses, including college-wide courses, are required unless you receive explicit approval to skip these.\nStarting primarily in year 3 (sometimes year 2), most students will take 3-6 hours (possibly more) of research credits. Prior to beginning work on your dissertation, these courses will be independent research courses requiring independent research projects. Such projects are developed by the student in coordination with Dr. Smith. Deliverables must be declared when signing up for the credits, and it’s important that students consider what is feasible in a semester and propose deliverables accordingly. Later in year 3, and especially in year 4, the shift will be towards advanced research credits while students devote time to thesis work.\nThesis credits: Thesis credits are required for both MS and PhD degrees. It is your responsibility to understand credit requirements, particularly for thesis credits. Once thesis and dissertation credit requirements have been met, MS and PhD students will often maintain registration through ‘continuation of program’ credit, where no credits are earned but enrollment status is maintained.\n\n\n10.1.2 Dissertation\nYou should aim to complete your dissertation within ~4 years of starting the program. Coursework will largely be completed by end of year ~2, giving you ~2 years to complete dissertation work. Keep in mind that the Department typically only guarantees funding for 4 years. A major barrier to completing the PhD in 4 years is a lag time between completing coursework and settling on dissertation aims and completing the written qualifying exam. So, be thinking about your dissertation no later than year 2, so you have a plan entering year 3.\n\n10.1.2.1 Timeline\n\nYear 1\nYour dissertation work begins in Year 1, when you begin to form your committee. In fact, you need to have your internal committee in place by the end of year 1 of the program. So, you should be meeting with other faculty in the graduate program to identify potential members of your committee (don’t worry, we can change these later as the dissertation takes form).\nAlso in Year 1, you will need to declare a specialization. If you’re in our lab, this is likely pharmacoepidemiology, or possibly health services research.\n\n\nYear 2\nBy end of year 2, you need to have your full committee (≥3 internal members + ≥1 external) in place, including the external member. The external member should be identified by you, but certainly discuss options with Dr. Smith. Often, the external committee member will be someone with clinical expertise in the dissertation topic. Sometimes, it will be someone with methdologic expertise, but this is less common because often such expertise can be found in the department (thus, from internal members of the committee). It is also possible to identify a clinical collaborator who is not necessarily a member of your committee, but who may contribute to your dissertation science.\nBy end of year 2, you should also be making significant progress on your dissertation aims. These need not necessarily be set in stone by end of year 2, but you should have a topic, and a general idea of what your dissertation will look like.\nFinally, you will have taken and (hopefully) passed your pre-qualifying exam. This is a 2-day exam comprised of 4 sections (policy, study design, analysis, and a manuscript review). If you did not pass, you will need to remediate the section(s) not passed. Successful remediation is required to progress further in the program. Obviously, discuss this with Dr. Smith, so we can make sure you are successful in remediation.\n\n\nYear 3\nYour coursework should be largely completed, and your dissertation topic should be solidified. Your written qualifying exam should be at least scheduled by Fall of year 3 (presuming you passed the preliminary exam), and completed by fall or spring semester. Ideally, you should submit an extramural grant in late fall/spring semester based on your dissertation work.\n\n\nYear 4\nYou should schedule and pass your oral qualifying exam. This year is spent on your dissertation.\n\n\nYear 5, as needed\nYou should complete your dissertation and defend. Funding for this year is not guaranteed and dependent on progress towards your defense. Funding beyond this year is highly unlikely.\n\n\n\n10.1.2.2 What does your committee look like?\nYour PhD thesis committee serves as your guidance team during your research, and should be viewed as colleagues and collaborators. There is a required minimum for interaction with the committee, but you try to go above and beyond this. After you have formed the committee, it is advisable to hold a committee meeting at least once a year, but it is encouraged to continually interact with committee members as needs arise with developing/executing the project.\nWhile building your thesis ideas, discuss with Dr. Smith. For PhD committees, four members is the usual size, though some students will have a fifth member. Generally in our program a committee will be made up of your advisor (Dr. Smith), two additional COP graduate faculty members (note that these will generally be POP faculty, but could be other COP graduate faculty and sometimes even members from other colleges who hold POP graduate faculty status), and ~1 external member (most often someone with clinical expertise in the dissertation topic). Aim to hold your first committee meeting no later than during the Winter of your 2nd year.\n\n\n10.1.2.3 What is expected of committee meetings?\nThis depends largely on where you’re at in the program. During the first meeting, you should bring everyone up to speed on your background, your progress through the program, and your thoughts for your dissertation topic and specific aims. It’s likely you’ll receive feedback that alters these aims to some degree – but that’s normal and okay. As committee meetings progress, we expect that your presentations will similarly progress. Nitty gritty details/problems/barriers are best reserved for individual meetings with committee members or with the lab group. These full committee meetings should really be focused on ‘big-picture’ accomplishments and issues as you progress through your PhD program. Some of these members you may not have a lot of access to – what do you really want them to give you feedback on during these meetings?\n\n\n10.1.2.4 What does your proposal look like?\nA proposal describing the research that will comprise the dissertation is a required, formal part of the academic program. Proposals should describe the goals and themes of the research to be conducted, and its context within current state of knowledge. The proposal should outline the research questions that each chapter (or paper) will address, and give a description of the methods that will be used in each. The proposal serves as a guiding document for the remainder of your program and is the document that you and your committee will use to agree on the scope of work to be completed to fulfill the degree requirements. Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used for each of these, and description of expected results and relevance/significance of the research. Aim for the proposal to be up to 12 pages of text. Detail of planning for each chapter will not be as comprehensive (it is expected that later chapters may not be as fleshed out), but the proposal should provide enough detail of what the student will do for the committee to evaluate whether the scope of work is sufficient (and likely make recommendations for reducing or refining this). It is common for students to have completed or be close to having completed work for at least one of the chapters by the time of defending the proposal.\nUltimately, the proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you will re-use some of the text later).\n\n\n10.1.2.5 What does your dissertation ultimately look like?\nYou have two options: a conventional dissertation, or three papers. Most students in our program choose the three papers, but the choice is yours. If you choose 3 papers, that means that we expect you to actually submit and publish (at least) 3 papers from your dissertation work. And, the Graduate School will still require you put together a formal dissertation report. Good news is you’ll have access to plenty of examples of this from students and former grads in our program.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Academics</span>"
+    ]
+  },
+  {
+    "objectID": "academics.html#ms-students",
+    "href": "academics.html#ms-students",
+    "title": "10  Academics",
+    "section": "10.2 MS students",
+    "text": "10.2 MS students\nThesis Proposal: MS students prepare a thesis proposal during their first year to identify and refine their thesis research topic ideas and outline methods that will be used to address the research questions. The proposal also serves as a guiding document for your initial committee meeting(s). Your committee only requires internal members (i.e., faculty in the department). Scope and plans for the MS thesis research will be developed through your meetings with Dr. Smith and with the project team (for students whose work is being funded by a research grant). Your thesis proposal should contain a literature review, identification of research questions, an overview of the methods that will be used, and description of expected results and relevance/significance of the research. Aim for the proposal to be about 8 pages of text. While not a formal requirement, a MS thesis proposal serves to clarify and outline expectations for the degree for both the student and the thesis committee, and serves as a blueprint for building out the thesis itself (indeed you may likely re-use some of the text later if you pursue a PhD). Thesis proposals written by other MS students in the Department are good examples of how these documents can be structured.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Academics</span>"
+    ]
+  },
+  {
+    "objectID": "academics.html#rolling-with-the-punches",
+    "href": "academics.html#rolling-with-the-punches",
+    "title": "10  Academics",
+    "section": "10.3 Rolling with the punches…",
+    "text": "10.3 Rolling with the punches…\nRemember, not everything will go to plan and your interests may change, not to mention your early findings may alter your research plan – that’s science. Contents of your thesis proposal are not set in stone and can always be revised with communication and collaboration with the committee. View proposals as items that help you build your scientific products rather than evaluative procedures that need to be checked off.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Academics</span>"
+    ]
+  },
+  {
+    "objectID": "courses.html#core-courses",
+    "href": "courses.html#core-courses",
+    "title": "11  Courses",
+    "section": "",
+    "text": "11.1.1 Year 1\nIntro to Grad Studies (college-wide course) will take place across all of Year 1.\n\n11.1.1.1 Fall:\n\nIntro to Biostatistical Methods (PHC 6052) - this is a mix of theory and applied methods (in SAS)\nIntro to Pharmacoepidemiology (PHA 6891)\nPrinciples of Pharmacoeconomics (PHA 6935)\nPublic Health Computing (PHC 6089) - SAS & R\nIntro to US Health Care Systems (HSA 6114) - only required for students with little/no exposure to U.S. healthcare system; this course could also be taken in year 2 fall.\n\n\n\n11.1.1.2 Spring:\n\nRegression Methods for Health & Life Sciences (PHC 6053) - another mix of theory and applied methods (in SAS)\nIntro to POP Research (PHA 6265)\nPrinciples of Evidence-Based Practice (PHA 5244 or PHA 6935)\n\n\n\n11.1.1.3 Summer:\n\nLife cycle of a drug (college-wide class)\n\n\n\n\n11.1.2 Year 2\n\n11.1.2.1 Fall:\n\nApplied Survival Analysis (PHC 6059) - SAS-based\nData Analysis and Interpretation (PHA 6805) - SAS-based\nIntermediate Pharmacoepidemiology (PHA 6268) -\n\n\n\n11.1.2.2 Spring:\n\nMeasurement (PHA 6717)\nGrant Writing (PHC 7727 or PET 5936) - both courses are good; Dr. Cottler’s (PHC 7727) is more epi-focused, whereas Dr. Powers’ course (PET 5936) is a bit broader. Both are focused on putting together an NIH-style grant. You should plan to write an actual submittable grant, ideally in line with your dissertation, during this course. See Chapter 8 for potential grant options.\nManuscript/Scholarly Writing (course TBD)\n\n\n\n\n11.1.3 Year 3 (or possibly 4)\n\nAdvanced Pharmacoepidemiology (PHA 7807) - this is an optional course in the PhD program, but we require it for our lab.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Courses</span>"
+    ]
+  },
+  {
+    "objectID": "courses.html#elective-courses",
+    "href": "courses.html#elective-courses",
+    "title": "11  Courses",
+    "section": "11.2 Elective Courses",
+    "text": "11.2 Elective Courses\nMuch of your elective credits will be for independent (pre-dissertation) or advanced research (dissertation) credits. However, there may be a few other courses that are worth exploring.\n\nBiostatistical Graphics & Data Visualization (PHC 6791)\nCausal Inference (PHC 6937)",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Courses</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html#where-we-tend-to-submitpresent",
+    "href": "conferences.html#where-we-tend-to-submitpresent",
+    "title": "12  Abstracts and Conferences",
+    "section": "",
+    "text": "*See text below for specific details.\n\n\n\n\n\n\n\n\n\nLocality of Meeting\nMeeting/Conference\nMeeting Month\nAbstract Due Month (Approx.)\nClinical or Methods\n\n\n\n\nLocal\nCOP Research Showcase\nFebruary\nDecember\nBoth\n\n\nLocal\nCOM Celebration of Research\nFebruary\nDecember\nBoth\n\n\nLocal\nCICMD Annual Research Showcase\nMay\nMarch\nBoth\n\n\nNational\nAHA Scientific Sessions\nNovember\nJune\nClinical\n\n\nNational\nAHA Hypertension Scientific Sessions\nSeptember\nMay\nClinical\n\n\nNational\nAHA Epi/Lifestyle Scientific Sessions\nFeb - March\nOctober\nBoth*\n\n\nNational\nAmerican College of Cardiology\nMay\nSeptember\nClinical\n\n\nInternational\nInternational Conference for Pharmacoepidemiology (ICPE)\nAugust\nFebruary\nBoth\n\n\nInternational\nICPE Mid-year\nApril\nDecember\nBoth\n\n\nInternational\nInternational Society for Pharmaceutical Outcomes Research (ISPOR)\nMay\nJanuary\nBoth\n\n\nNational\nAmerican College of Clinical Pharmacy (ACCP)\nOctober\nMarch\nClinical\n\n\nNational\nAmerican Medical Informatics Association (AMIA) Annual Symposium\nNovember\nMarch\nBoth\n\n\n\n\n12.1.1 Local Research Meetings\n\n12.1.1.1 The COP Research Showcase\nEach year, in February, the UFCOP hosts the Research Showcase, featuring all the work of our trainees (post-docs, graduate students and PharmD students). All post-docs, as well as graduate students (2nd year, onward) are expected to present at this meeting ; 1st year grad students are also very welcome, if they have work to present. You are encouraged to apply for both the poster and oral presentation slots, but at a minimum, will be invited to present a poster. Typically, this meeting is held in HPNP (posters in the Atrium and throughout the first floor, and presentations in the main lecture hall).\nAbstracts can be submitted to the Research Showcase, whether or not you have already submitted, or plan to submit, the abstract to a larger meeting. Submitting at the Research Showcase will not preempt you from presenting the research elsewhere. In fact, it is a very good idea to submit the same abstract to the COP Research Showcase and a national meeting (two birds, one stone and all).\n\n\n12.1.1.2 The COM Celebration of Research\nLikewise, the COM holds their research showcase, called “Celebration of Research” in February typically, with posters/presentations done on the floor of the O’Connell Center. This is quite similar to the COP showcase, and the same information above applies. Typically, most, if not all abstracts, are accepted, and presenting here will not preempt your ability to present elsewhere, including COP Research Showcase and national meetings.\n\n\n\n12.1.2 Cardiology/Cardiometabolic Conferences\n\n12.1.2.1 American Heart Association (AHA) Scientific Sessions\nThe AHA Scientific Sessions is a huge meeting, and the premier cardiology-focused meeting in the world. Typically the meeting is in November. It is a clinically-focused meeting, so abstracts should have clear clinical implications; methods-heavy work is usually not ideal.\n\n\n12.1.2.2 AHA Council Meetings (Hypertension & Epi-Lifestyle)\nThe AHA is broken up into “Councils” (various focus areas within the broader CV community). There are two council meetings we frequently present at: Hypertension Scientific Sessions and the Epi/Lifestyle Scientific Sessions. Hypertension is a bigger meeting, but epi/pharmacoepi is only a component of it; much of the work presented there is basic or clinical. Still, it’s a good place for hypertension-related work with a clinical focus. Epi/lifestyle is smaller and does take some more methods-focused work, provided it’s specifically relevant to CV research.\n\n\n12.1.2.3 American College of Cardiology\nThe ACC Annual Meeting is Another large meeting, though not as big as AHA. Often (but not always) held in D.C. This is another clinically-focused meeting, broadly focused on cardiovascular disease. Methods work is less likely to get traction here.\n\n\n\n12.1.3 Pharmacoepi/Pharmaceutical Outcomes Conferences\n\n12.1.3.1 ICPE\nICPE is the annual meeting of the International Society for Pharmacoepidemiology, held every other year in North America and elsewhere on the off-years (often Europe, but not always). Always in August. This is a very p-epi focused meeting, but both clinical and methods work is acceptable. Students are often able to get travel grants for this meeting. You should try to present work here at least once during your training program, and it is an excellent place to network within our field.\n\n\n12.1.3.2 ISPE Mid-year\nICPEs little sibling, primarily held for students in the spring. Another good opportunity to present your clinically- or methods-focused work. It is smaller than ICPE, but the programming is tailored towards students/trainees.\n\n\n12.1.3.3 ISPOR\nISPOR is a relatively bigger meeting than ICPE, and heavily attended by industry. If you’re interested in an industry career, you should attend ISPOR at least once. Will accept both clinically-focused and methods-focused work, and very friendly to student submissions.\n\n\n\n12.1.4 ACCP\nRegrettably, pharmacy organizations do not have any particularly research-focused meetings. The American College of Clinical Pharmacy Annual Meeting is probably the best of the group, but the quality of the research here is variable and sometimes not as high as many of the above conferences. That said, if you want to get some networking experience in pharmacy circles, this is a good meeting. Note that the programming is very heavy on “clinical” – good for generating research ideas (i.e., understanding where important gaps still exist), but you will not get exposure to much research methodology.\n\n\n12.1.5 AMIA Annual Symposium\nAMIA has a large number of meetings each year (you can see the list here). This is a very informatics-focused group, but potentially some of our work may fit here, particularly methods-related work.\n\n\n12.1.6 Other Meetings\nThere are a million other meetings that might be of interest to you and/or relevant to a particular project. Others worth considering:\n\nSociety for Epidemiologic Research\nAmerican Geriatrics Society\nKidney Week (American Society of Nephrology)\nAcademyHealth (somewhat more HSR and health policy-focused)\n\nThe above is by no means a comprehensive list. If you learn of others that may be interest to the group, please add them by clicking the Edit this page github link at the bottom of the right menu.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html#poster-templates",
+    "href": "conferences.html#poster-templates",
+    "title": "12  Abstracts and Conferences",
+    "section": "12.2 Poster Templates",
+    "text": "12.2 Poster Templates\nSo you got your abstract accepted - congrats! The UFCOP and CoDES center have branded slides for a presentation, as well as a templated poster that can be used to create your poster.\nBut, before you choose a poster template, consider whether we need to coordinate with others presenting at the same meeting:\n\n\n\n\n\nflowchart TB\n  A[Other POP/CoDES members presenting?] --&gt; B((Yes))\n  B --&gt; C[Other CVmedLab members presenting?]\n  C --&gt; D((Yes))\n  C --&gt; E((No))\n  D --&gt; F(Coordinate same template)\n  E --&gt; G(Use any POP/Codes template w/ CVmedLab logo)\n  A --&gt; H((No))\n  H --&gt; I(Use whatever template you like)\n\n\n\n\n\n\nHere are several templates that allow for consistency between lab presentations, and also with other POP/CoDES presentations:\n\n\n\nFigure 12.1: Portrait Posters\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12.2: Landscape Posters\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 12.3: Some other templates we’ve used in the past\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAcknowledging Support\n\n\n\nMake sure to consider who supported the work we’re presenting. For example, if CoDES data were used, or travel support was provided from, e.g., CICMD, or the work was funded in whole or in part by another organization (e.g., UF COP, CTSI or an external funder like PhRMA or AHA), we should make sure these are acknowledged in the poster (or powerpoint) presentation. If available, consider adding the logo of the supporter and including appropriate text in the Acknowledgement section of the poster/presentation.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html#where-to-print-a-poster",
+    "href": "conferences.html#where-to-print-a-poster",
+    "title": "12  Abstracts and Conferences",
+    "section": "12.3 Where to Print a Poster",
+    "text": "12.3 Where to Print a Poster\nUF Printing Services maintain a list of printing services/locations on UF campus. For posters, you will need a plotter, which is only available at some of the locations on the above website.\nAdditional options can be found at the Orthopedics and Sports Medicine Institute, as well as other businesses in Gainesville (e.g., Target Copy), but UF options are likely to be least expensive.\nYour best bet is to ask your fellow trainees where they’re getting their posters printed. New options pop up all the time, and they can probably give you the best sense of what has worked for them – and what hasn’t.\n\n\n\n\n\n\nPoster sizing\n\n\n\nBe careful with L x W dimensions of your poster file vs. the eventual printed poster. The portrait poster templates above are 36” (W) x ~50” (L) and the landscape poster templates are ~55” (W) x ~35” (L). Most of the plotter printers print a maximum of 36” in one of the dimensions (W or L, depending on orientation of the poster) and essentially unlimited in the other dimension. So, both of these will be printed at about 100% scale. The other (older) templates are at 18” x 36”, so would be printed at 200% scale. The point is, you need to understand at what scale you’re printing – or better yet, get someone at the printing office to help scale it correctly.\nFinally, your best bet is usually to save your PPTX file to a PDF (vector-based image) that will print without losing quality at any adjusted scale. And, where possible, use vector-based figures (SVG, EPS, or PDF) – these, too, will scale without losing quality, whereas raster-based figures (PNG, JPG, TIF, etc..) will not. If you go with the latter, make sure you save them as big enough images that you don’t need to scale them up substantially to be able to print a large poster.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html#presentation-templates",
+    "href": "conferences.html#presentation-templates",
+    "title": "12  Abstracts and Conferences",
+    "section": "12.4 Presentation Templates",
+    "text": "12.4 Presentation Templates\nSo you got your abstract accepted as a platform presentation - congrats! We have templates for these too. However, check closely the invitation from the meeting organizers. Often platform presentations are expected to use a template from the meeting, which provides consistency across presentations at the meeting.\nPresentation Templates:\n\nCOP Template 1 - basic template\nCOP Template 2 - basic template\nUF Template 2022 - this has a ton of ideas for different types of slides worth a look even if just for ideas)\nOlder UF Template\n\nThe UF Brand Center also has a lot of other assets that can be added to presentations or posters and is worth looking through.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html#support-for-presenting-at-conferences",
+    "href": "conferences.html#support-for-presenting-at-conferences",
+    "title": "12  Abstracts and Conferences",
+    "section": "12.5 Support for Presenting at Conferences",
+    "text": "12.5 Support for Presenting at Conferences\nThe lab will cover the cost of poster printing for posters of lab research. Discuss with the POP Administrative Assistant (Gabby or other) how best to pay for or get reimbursed for this. For the COP research showcase, the POP department covers the cost. You’ll need to seek approval from Dr. Segal.\nYou should seek out sources of support for travel and other costs associated with attending conferences. The CICMD helps offset travel if you have an accepted poster/presentation (you will need to acknowledge the support of CICMD). Many conferences also offer travel support for trainees.\nSpeak to your colleagues in the department for other possible sources of support",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html#general-principles",
+    "href": "papers.html#general-principles",
+    "title": "13  Papers",
+    "section": "",
+    "text": "If you haven’t already, check out the CVmedLab lab doc called Scientific Writing\nEach major section of a manuscript should begin on a new page: title page, abstract, introduction, methods, results, discussion, references, tables (each on a new page), and figures (each on a new page).\nEverything should be Arial font, size 11; every page (except title page) should be double-spaced; title page should be single-spaced\nMajor headings (Introduction, Methods, etc..) should be bold. Second-level headings should be italic. Third-level headings should be underlined.\nPages should be numbered (preferably top right corner).\nFigures trump tables in terms of presenting all but the simplest data. Figures are much more likely to be re-used by others in presentations, review articles, news articles, etc…\nTables come before figures sequentially in the manuscript.\nFigures should be vector images (.SVG preferably; alternatively, .EPS); these do not lose quality when scaled up (zoomed in on). Both SAS and R can output SVG files fairly easily. If you’re designing figures (as opposed to outputting data-based plots), consider Adobe Illustrator (smallish annual fee) or draw.io which is good for creating diagrams (design schematics, flow charts, etc..) and can output SVG files.\nRegardless of what the journal says, embed figure(s) directly in the manuscript file; if the journal requests that figures be submitted separately, do that also (in addition to embedding them), but keep them embedded either way. This makes it easier for reviewers to see figures at the size you want them to, rather than what the journal’s submission software includes them in the PDF as.\nMost journals allow for unlimited tables/figures in the Supplement. You should consider using a supplement liberally, meaning putting tables/supplements in the figure if you think they’ll be of interest to only a limited section of the readership of a journal. Most often, we will include study design figures and patient flow diagrams in these, as well as, e.g., sensitivity analysis results. They also can be used for additional methodologic details if you find the main text Methods section becoming too bloated. Basically, anything potentially of interest to at least some readers (or that can be helpful in mitigating likely reviewer critiques) should go in the Supplement.\nEverything in the Supplement can be single-space; if the Supplement is particularly long, consider adding a Table of Contents page (page after the title page)",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html#references",
+    "href": "papers.html#references",
+    "title": "13  Papers",
+    "section": "13.2 References",
+    "text": "13.2 References\nYou should familiarize yourself with reference management software, which will make your life immensely easier when writing manuscripts. Dr. Smith prefers Mendeley or Zotero, both of which are free. EndNote web is also acceptable. The important point is to pick one that works for you. Don’t manually edit/re-order references; this will be a waste of your time.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html#manuscript-templates",
+    "href": "papers.html#manuscript-templates",
+    "title": "13  Papers",
+    "section": "13.3 Manuscript Templates",
+    "text": "13.3 Manuscript Templates\n\n13.3.1 Word Doc template\nThe most common format we work with will be a Word document. Here’s a template you can use to get started on a manuscript. And, here is a template for a supplement. To use, in Word, do File -&gt; New from Template… -&gt; Select the saved template file from the above links -&gt; get to editing.\n\n\n13.3.2 Quarto Doc\nTo do…",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html#where-we-tend-to-publish",
+    "href": "papers.html#where-we-tend-to-publish",
+    "title": "13  Papers",
+    "section": "13.4 Where We Tend to Publish",
+    "text": "13.4 Where We Tend to Publish\nEach manuscript has a home, it’s just a matter of finding the right home. We list some manuscripts the lab tends to publish in (as well as others in the field), but your particular manuscript may not be ideal for any of these; indeed, the manuscript and the journal need to be a good match, both in terms of content and impact. If you have a good clinical message, consider a clinical journal; if it’s more technically/methodologically-oriented, target either an epi-type journal or a methods-type journal. If you have what we expect to be a high impact paper, we should aim for a high impact journal. If it’s more moderate impact, we shouldn’t waste time with high impact journals - let’s find the right match the first time.\nThis is a skill – matching your manuscript with a good journal fit – you should work on developing during your PhD, as it will come in handy in the future in almost any job.\nDon’t get too hung up on the impact descriptions here, as they are pretty subjective.\n\n*indicates open access (OA)-only journal.\n\n\n\n\n\n\n\n\nFocus\nHigh Impact\nModerate Impact\nLower Impact (still solid)\n\n\n\n\nHypertension\n\nHypertension\n\n\nAmerican Journal of Hypertension\nJournal of Hypertension\n\n\nJournal of Human Hypertension\nJournal of Clinical Hypertension*\n\n\n\nCardiology-General\n\nCirculation\nJournal of American College of Cardiology (JACC)\nJAMA: Cardiology\nEuropean Heart Journal\n\n\nCirculation: Cardiovascular Quality and Outcomes\nJournal of American Heart Association\nInternational Journal of Cardiology\nAmerican Heart Journal\nAmerican Journal of Cardiology\n\n\nAmerican Heart Journal Plus: Cardiology Research and Practice*\nHeart\nEuropean Heart Journal - Cardiovascular Pharmacotherapy\nEuropean Journal of Preventive Cardiology\nCardiovascular Therapeutics\n\n\n\nEpi/Pharmacoepi\n\nAmerican Journal of Public Health\nEuropean Journal of Epidemiology\nAmerican Journal of Epidemiology\nJournal of Clinical Epidemiology\nInternational Journal of Epidemiology\nClinical Epidemiology\nAmerican Journal of Preventive Medicine\n\n\nDrug Safety\nValue in Health\nJournal of Public Health\nEpidemiology\nPreventing Chronic Disease\nBMC Public Health\n\n\nPharmacoepidemiology & Drug Safety (arguably higher impact for p-epi studies)\nMedical Care\n\n\n\nInformatics\n\nJournal of the American Medical Informatics Association\nLancet Digital Health\nJournal of Biomedical Informatics\n\n\nBioinformatics\nBMC Medical Informatics and Decision Making\nJournal of Medical Internet Research\n\n\n\n\nPharmacotherapy-General\n\nEuropean Heart Journal-Cardiovascular Pharmacotherapy\nClinical Pharmacology & Therapeutics\nPharmacotherapy\n\n\nCardiovascular Drugs and Therapy\nAnnals of Pharmacotherapy\nClinical Therapeutics\n\n\nJournal of American Pharmacists Association\nJournal of American Health -Systems Pharmacists\n\n\n\n\nMake sure to discuss with Dr. Smith whether funds are available to support publishing, including open access. We try to build such fees into grants when possible.\n\n\n\n\n\n\nFinal note of caution on journal selection\n\n\n\nLearn to avoid disreputable journals and publishers. The vast majority of these are open access (OA) only. MDPI is a good example of a publisher that publishes a lot of predatory journals.\nThink, Check, Submit offers a nice checklist for assessing journals. Old Dominion University also offers a helpful set of resources for identifying predatory journals.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html#support",
+    "href": "papers.html#support",
+    "title": "13  Papers",
+    "section": "13.5 Support",
+    "text": "13.5 Support\nThe CICMD offers support for offsetting costs of manuscripts (open access or page fees). Discuss with Dr. Smith whether you should submit a request for funding.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "computing.html",
+    "href": "computing.html",
+    "title": "14  Computing",
+    "section": "",
+    "text": "To do.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Computing</span>"
+    ]
+  },
+  {
+    "objectID": "data_resources.html#electronic-health-record-ehr-data",
+    "href": "data_resources.html#electronic-health-record-ehr-data",
+    "title": "15  Data Resources",
+    "section": "",
+    "text": "15.1.1 OneFlorida+\nOneFlorida+ is one of 11 clinical research networks (CRNs) that comprise the Patient-Centered Ourcomes Research network (PCORnet). Quite a bit of our work is done on OneFlorida+ data, or data from OneFlorida+ and other PCORnet CRNs. The good news is they all adhere to the PCORnet common data model (scroll to the bottom of the page), which you will need to familiarize yourself with if you’re working on OneFl+/PCORnet data. In particular, you’ll need to familiarize yourself with the relevant tables and variables. If you’re unsure whether you’ll be working with OneFl+/PCORnet data, ask Dr. Smith.\nOneFlorida+ includes EHR data from health system partners across Florida (UF, University of Miami, University of South Florida, Orlando Health, Florida Hospital [Orlando], Tallahassee Memorial, and others), as well as University of Alabama-Birmingham (UAB) and Emory University. In addition, it contains Florida Medicaid claims data. Data are generally available from ~2012 onward. As you’ll see on reviewing the common data model, the available data are generally structured data (rather than unstructured clinical texts like provider notes, imaging reports, etc..).\n\n\n15.1.2 UFHealth data\nThe UF integrated data repository is a database of UFHealth EHR data, including both structured and unstructured data. The IDR has an i2b2 implementation which can be used for simple queries, i.e., to find counts of patients that meet certain criteria. The IDR i2b2 implementation can be found here (you’ll need to register for an account here and you’ll need to be on campus or on the HSC VPN to access i2b2).\nWe are currently in the process of linking UFHealth data with our Medicare claims data for patients in both data sources.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Resources</span>"
+    ]
+  },
+  {
+    "objectID": "data_resources.html#claims-data",
+    "href": "data_resources.html#claims-data",
+    "title": "15  Data Resources",
+    "section": "15.2 Claims data",
+    "text": "15.2 Claims data\nMajor claims data sources housed in POP/CoDES include CMS data and IBM Marketscan. Brief descriptions are below. Additional information can be found here.\n\n15.2.1 CMS data (Medicare, Medicaid)\n\nMedicaid\nMedicaid Analytic eXtract (MAX) and T-MSIS Analytic Files (TAF) data contain claims for medical care and drug benefits received by beneficiaries with Medicaid insurance coverage, the state-run programs for low-income and categorically eligible individuals and families. CoDES has in-house MAX data for over &gt;120 million beneficiaries residing in the 29 most populous states from 1999-2010 (AL, AR, CA, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MN, MO, MS, NC, NE, NJ, NM, NY, OH, SC, TN, TX, VA, WA, WI, WV) and national data (all 50 states plus the district of Columbia) from 2011-2016.\nMedicaid data has been linked to birth certificates from the Florida Department of Health (1999-2014), Texas Department of State Health Services (1999-2012) and New Jersey Department of Health (1999-2010). The entire national Medicaid data set includes validated mother-infant linkages.\n\n\nMedicare\nMedicare data include claims for inpatient, skilled care nursing facility, and hospice care (Part A) as well as outpatient care (Part B) and prescription drugs (Part D). CoDES center has a somewhat complicated sample of Medicare, due in part to our desire to link UFHealth EHR data with Medicare data.\nBasically, the current sample includes the following:\n\nA 5% national Medicare sample (random sample of 5% of Medicare patients nationwide who meet the above criteria for parts A, B, and D) for the years 2011 through 2015 plus 1 million beneficiaries in FL sampled from individuals who reside in the UF Health catchment area (to ensure we could link most UFHealth patients)\nA 15% national Medicare beneficiaries plus the entire state of Florida for 2016-2018, totaling &gt;8 million lives.\n\nWe are anticipating continuing to grow the data (additional years).\nResDAC contains excellent documentation of the Medicare files, variables, and availability from year-to-year. If you’re going to use Medicare data, you’ll need to get to know these data dictionaries.\n\n\n\n15.2.2 Marketscan\nThe IBM Marketscan Commericial claims database includes 2005-2020 health insurance claims for inpatient, outpatient, and outpatient pharmacy encounters, as well as enrollment data from large employers and health plans across the United States who provide healthcare coverage for their employees, their spouses, and dependents. The current dataset includes &gt;192 million lives.\nThe Medicare Supplemental data includes 2005-2020 enrollment records along with inpatient, outpatient, ancillary, and drug claims for &gt;12.9 million retirees in the United States with Medicare supplemental coverage through privately-insured fee-for-service, point-of-service, or capitated health plans.\nThe Health Risk Assessment (HRA) data includes 2012-2018 self-reported biometric and health-related behavioral data obtained through surveys of employees of large US corporations and health plans. HRA is linked to medical, pharmacy, and enrollment data for these employees in the Commercial claims data (above) and used to examine the relationships between health behaviors/risk and health outcomes or medical expenditures. Linked data is available for about 5% of beneficiaries.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Resources</span>"
+    ]
+  },
+  {
+    "objectID": "data_resources.html#others",
+    "href": "data_resources.html#others",
+    "title": "15  Data Resources",
+    "section": "15.3 Others",
+    "text": "15.3 Others\nThere’s much too much to make this a comprehensive list, but here are some additional data resources that are either publicly-available or available to us by virtue of collaborations within UF, and may be of interest to you/the lab for some of our work.\n\n15.3.1 Clinical trial/prospective cohort data\n\nNHLBI BioLINCC - NHLBI-funded clinical trial and prospective cohort data\n\n\n\n\n\n\nNote\n\n\n\nWe currently have access to SPRINT and ACCORD trial data - ask Dr. Smith if interested being added to the DUA for these trials\n\n\nINVEST trial - we have access to the INVEST trial data, which was a large international trial (22.5k individuals enrolled) comparing a calcium channel blocker vs. beta-blocker treatment strategy in patients aged ≥50 years with hypertension + coronary artery disease. Includes adjudicated cardivoascular events, as well as all-cause death data through at least 2015.\nWISE cohort - we have access to the Women’s Ischemia Syndrome Evaluation (WISE) cohort, which was a multisite prospective cohort study of women with suspected myocardial ischemia.\nWomen Take Heart - we have access to the Women Take Heart cohort, which was a Chicago-based prospective cohort study of ~8k women without cardiovascular disease, enrolled in 1992 and with death follow-up through at least 2008.\nWARRIOR trial - The Women’s IschemiA TRial to Reduce Events In Non-ObstRuctive CAD is a multicenter, prospective, randomized, blinded outcome evaluation (PROBE design) of a pragmatic strategy of intensive medical therapy (incl. ACEI or ARB + statin) vs usual care in 4,422 symptomatic women with ischemia and no obstructive coronary artery disease (INOCA)\n\n\n\n15.3.2 Publicly-Available datasets\nThe CDC curates a number of valuable datasets that are relatively easy to access and generally offer cleaned, curated datasets that are analysis-ready. Some common ones we use/see in our field include:\n\nAll of Us - longitudinal data (EHR, biomedical specimens, and surveys) from &gt;500k individuals (eventually 1M patients)\nNational Health and Nutrition Examination Survey (NHANES) - a complex survey design that is completed every 2 years and allows for inference about what is happening across the non-instutitionalized U.S. population\nNational Ambulatory Medical Care Survey (NAMCS) - Data provided by providers (not patients) about patient visits in a single week of the year; allows for inference about what is happening at outpatient visits in the U.S.\nBehavioral Risk Factor Surveillance System (BRFSS) - state-administered surveys, completed annually, and curated by the CDC\nAnd, lots of others from the National Center for Health Statistics\nMedical Expenditure Panel Survey (MEPS) - a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States; MEPS is the most complete source of data on the cost and use of health care and health insurance coverage in the U.S.\nFDA Adverse Event Reporting System (FAERS) - datasets containing Adverse Events reported to the FDA on drugs; there is a similar reporting system administered by DHHS for vaccines, called VAERS",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Resources</span>"
+    ]
+  },
+  {
+    "objectID": "coding_resources.html#sas",
+    "href": "coding_resources.html#sas",
+    "title": "16  Coding Resources",
+    "section": "",
+    "text": "16.1.1 Books\nThere are lots of good SAS books out there, but here’s a couple you might find particularly useful. (* denotes texts Dr. Smith has electronic copies of and that can be ‘checked out’ within the lab.)\n\nThe little SAS book, 6th ed. (you can access this one from campus or on the VPN - Dr. Smith also has a copy of 5th ed.*) (Delwiche and Slaughter 2019)\nAnalysis of Observational Health Care Data using SAS* (Faries and Institute 2010)\nSurvival analysis with SAS: A practical guide* (Allison 2010)\n\n\n\n16.1.2 Useful online articles/links/blogs\n\nSAS Procedures by Name - This is a must-have bookmark to the official SAS documentation; you will use it often and it’s quite helpful.\nUCLA Office of Advanced Research Computing tutorials - a good starting place for basics of running relatively simple analyses/data wrangling and interpreting.\nUF PHC 6052 course tutorials - you’ll take this class relatively early in the program, but still a useful resource\nThe DO loop - excellent and very productive blog by Rick Wicklin\nLexJansen.com - not a particularly user-friendly site, but contains tons of SAS-related papers. Your best bet is just googling your problem, but there’s a good chance the top hits will be papers in PDF form on this site.\n\n\n\n16.1.3 Macros\n\nSqueeze - shrink datasets by minimizing variable lengths to minimum necessary for the actual dataset\n[Magic Macro] - to add\nBasic Dataset Characterization\nOptionReset - reset default options, if you’ve somehow mangled yours\nms_freezedata - a mini-SENTINEL program macro that creates subsets of patient-level data from a supplied patient id list\n[Table 1] - to add",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Coding Resources</span>"
+    ]
+  },
+  {
+    "objectID": "coding_resources.html#r",
+    "href": "coding_resources.html#r",
+    "title": "16  Coding Resources",
+    "section": "16.2 R",
+    "text": "16.2 R\n\n16.2.1 Base R\nYou can download base R for free from C-RAN here. Make sure you select the correct file for your computer system (and chip, if using a Mac).\n\n\n\n\n\n\nYou need base R\n\n\n\nYou need to install base R, even if you will use R-Studio (recommended). Otherwise, R-Studio won’t do you much good.\n\n\nInstallation should be straight-forward and easy, and you can use defaults. If needed, there are comprehensive instructions (HTML and PDF) available on C-RAN.\nThe R development team has some good, if somewhat dense, manuals available at C-RAN here. A good place to start is the Intro to R (HTML and PDF).\n\n\n\n\n\n\nTip\n\n\n\nBase R is updated pretty frequently, but you won’t be bugged about it. It’s a good idea to check periodically to see if you are behind a few releases. The easiest way to update is to just re-install the new version, using the same process you did the first time around (download the compiled software and re-install; it will write over the old version).\nUnlike python, the R development team takes great pains to not break things with any new releases, so it’s rare that an update will cause you any problems with old code.\n\n\n\n\n16.2.2 R-Studio and extensions\nWe recommend you use R-studio on top of R. Select the free desktop version here (note: skip to step 2 since you will have hopefully already installed base R). Again, make sure you download the correct file for your operating system and note that the website often assumes you run Windows - if you don’t, scroll down a bit further to make sure you get the right file for your OS.\nAgain, installation should be straight-forward and easy, and you can use defaults.\nThere are some useful extensions for R-studio, but none are absolutely necessary:\n\nQuarto - useful for generating all sorts of R-markdown, including papers (yes, you could actually write your manuscript in Quarto), technical reports, websites, books (this lab manual was written with Quarto!); the beauty of R-markdown is you can weave together plain text and R code seamlessly into an output document (.html, .docx, .pdf, etc) - that means you can have all of your analysis code re-generate everything automatically any time you make a slight change to the cohort or underlying data.\n\nOne ‘to-do’ for the lab might be to make a manuscript template which would make writing routine parts of manuscripts considerably easier 🤔\n\n\n\n\n16.2.3 R packages\n\n\n\n\n\n\nInstalling Packages\n\n\n\nR packages are installed by typing install.packages(\"package_name\") in the interactive window (or in a new script, which is then run). For example, install.packages(\"tidyverse\"). You can also install multiple packages at once: install.packages(c(\"dplyr\",\"haven\",\"ggplot2\",\"stringr\")).\nYou’ll sometimes see ‘dependencies’ installed as well - these are other packages that are required to run the package(s) you’re installing. If you get questions about compiling from source, just select No unless you really need that slightly newer version.\n\n\n\n\n\n\n\n\nProduction vs. Development packages\n\n\n\n\n\nThe below listed packages are all hosted on C-RAN and can be installed with the install.packages() function. You may come across packages in development that you want to install, or development versions of established packages that have not been pushed to C-RAN yet. These can usually be installed from, e.g., github, using the devtools package, with something like devtools::install_github(\"github_user/package_name\") and typically the package will supply a similar instruction if you find the associated webpage or github page.\n\n\n\n\nData wrangling\nThe following packages are particularly useful for dealing with raw data as well as basic analyses:\n\ntidyverse - a suite of packages that make R considerably easier to learn for the new user (in our opinion); bonus points because they’re supported by Posit (makers of R-Studio) and are constantly being improved, unlike some packages which eventually languish. We suggest installing the entire tidyverse with install.packages(\"tidyverse\") but you can also install components of the tidyverse individually\n\nhaven - useful functions to read in SAS files\nggplot2 - excellent graphics program - see below.\ndplyr - data manipulation\npurrr - enhanced functional programming\nstringr - tools for working with strings\nreprex - tools for creating reproducible examples\nforcats - working with factors\nand more…\n\ndata.table - an alternative to working with “tibbles” (dataframes in tidyverse), data.table offers a high-performance (fast) version of base R’s data.frame with syntax and feature enhancements; some people prefer data.table to tidyverse/tibbles, and once you learn the syntax (which can be a little awkward), it is a pretty useful package, particularly when working with larger datasets like we use\nlabelled - If you’ve gotten enough experience with R and SAS (or SPSS), you might notice one of the distinct differences: SAS/SPSS allow for labeling variables, R does not. This package provides that functionality to R. You know what your variables are, but for the rest of us who don’t, labeling helps a lot\njanitor - has some useful data cleaning functions; nothing super complicated, but it will save you some time, particularly when bringing in messier data\nMore to come…\n\n\n\nGraphics & Tables\n\nggplot2 - comes with tidyverse, so does not need separate installation, but will be your go-to for plotting much of what you’ll want.\n\nggplot2 also has lots of very useful extension, which can be found here. Some we particularly like include patchwork, ggrepel, ggthemes, ggsci, ggdist, ggsignif, and survminer (there are &gt;100!)\n\nplotly - interactive graphics\ngt - great tables(?) - a tidyverse-syntaxed tables package that has some very nice extensions, see below; note that there are lots of other output table-oriented packages (the gt page lists many of these other packages) - and you may find some of these more to your liking.\ngtExtras - extension for {gt} that adds some nifty functionality, including small plots in table rows\ngtsummary - extension for {gt} for creating summary tables. See Lab Docs on the CVmedLab website for an example using gtsummary.\n\n\n\nInteractive data presentation\n\nshiny - build interactive web apps and dashboards from R\n\n\n\nPackage development\nPackages come in all shapes and sizes and don’t have to be a set of fancy functions to be used by the R community. A common use of R packages is collating everything needed for an analysis/paper (data, notes, analytic code, +/- the paper itself). If you’re going to create packages, the following are extremely helpful:\n\ndevtools - simplifies common tasks in package development (also helpful in downloading non-C-RAN packages/versions, e.g., from github)\nusethis - automates repetitive tasks in package development\n\n\n\nAnalysis\nTons of packages in this space, but if you want to stick with the tidyverse, tidymodels is a good choice.\nFor regression modeling, Frank Harrell’s rms package is good and well supported with a website.\n\n\nColor palettes\n\nmonochromeR\nmunsell\npaletteer - most of the R color palettes floating around in space assembled in one package\n\n\n\nOther Odds-and-Ends Packages\n\ndaggity - for creating DAGs and much more (if you’re using ggplot2, you may want to also check out ggdag)\nHmisc - Frank Harrell’s Hmisc package with lots of functionality; also works well with his R Workflow (see links below)\n\n\n\n\n16.2.4 Useful R resources\n\nr4ds - R for Data Science, by Hadley Wickham, is an excellent, free introduction to R and the tidyverse\nAdvanced R - A step up in complexity from r4ds (and best tackled after r4ds), but another excellent book by Hadley Wickham\nggplot2 Book - Excellent book, again by Wickham, that overviews ggplot2 capabilities.\nBiostatistics for Biomedical Research - online course covering lots of statistical (and more broadly, biomedical research) topics from the excellent statistician, Frank Harrell; this is more generally biostatistics-focused, but works through accompanying R code\nHarrell’s Regression Modeling Stragies Course (RMSC) - Frank Harrell’s online book/“course” that accompanies the excellent RSM textbook (Harrell 2015)\nHarrell’s R Workflow\nR pkgs - Very good book on developing R packages\nBig Book of R - A frequently-updated collection of (probably) every single online R text there is; probably most of this stuff will not be useful to you, but if you’re looking for something - there’s a good chance you can find it here.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Coding Resources</span>"
+    ]
+  },
+  {
+    "objectID": "coding_resources.html#gitgithub",
+    "href": "coding_resources.html#gitgithub",
+    "title": "16  Coding Resources",
+    "section": "16.3 Git/Github",
+    "text": "16.3 Git/Github\n\nHappy Git with R",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Coding Resources</span>"
+    ]
+  },
+  {
+    "objectID": "coding_resources.html#references",
+    "href": "coding_resources.html#references",
+    "title": "16  Coding Resources",
+    "section": "References",
+    "text": "References\n\n\n\n\nAllison, Paul D. 2010. Survival Analysis Using SAS: A Practical Guide. 2. ed. Cary, NC: SAS Press.\n\n\nDelwiche, Lora D., and Susan J. Slaughter. 2019. The Little SAS Book: A Primer. Sixth edition. Cary, NC: SAS Institute.\n\n\nFaries, Douglas E., and SAS Institute, eds. 2010. Analysis of Observational Health Care Data Using SAS. Cary, North Carolina: SAS Publishing.\n\n\nHarrell, Frank E. 2015. Regression Modeling Strategies: With Applications to Linear Models, Logistic and Ordinal Regression, and Survival Analysis. 2. ed. Springer Series in Statistics. Cham: Springer.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Coding Resources</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#curriculum-vitae",
+    "href": "communication.html#curriculum-vitae",
+    "title": "9  Communication",
+    "section": "9.1 Curriculum Vitae",
+    "text": "9.1 Curriculum Vitae\nKeep your CV up to date, ideally as things happen (easier to remember right away than once a year, etc..). We share our CVs within the group in the CVmedLab Dropbox Folder (ask Dr. Smith if you don’t have access), both to give each other ideas about what to include, but also having these in one place makes it easier for Dr. Smith and others to reference information from them when needed.\nThere’s no universal approach to CVs, and your CV will change over time, as you gain experience, and as the emphasis of your career changes. The UF Career Center has some guidance for constructing your CV, but don’t feel like it’s absolutely necessary to follow their templates. The important thing is that it’s well-organized, clean (not cluttered), and makes use of white space. Finally, be careful about how much personal information you put on there, as your CV will be shared beyond those who you specifically send it to. You can always supplement personal information in an email or job application, but you probably don’t want your home address or cell phone # out there for everyone to see. If you feel like you need a number, sign up for a Google Voice number that will mask your real cell number."
+  },
+  {
+    "objectID": "communication.html#orcid",
+    "href": "communication.html#orcid",
+    "title": "9  Communication",
+    "section": "9.2 ORCiD",
+    "text": "9.2 ORCiD\nBefore you submit your first paper, you should set up an ORCiD, which is a persistent digital identifier for you. More importantly, many/most journals will allow you to link your ORCiD to your paper, so that you have a persistent record of all your published papers, and (particularly if you share a name with others), it allows you to distinguish yourself from other researchers of the same or similar name.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#pubmed-profile",
+    "href": "communication.html#pubmed-profile",
+    "title": "9  Communication",
+    "section": "9.3 PubMed Profile",
+    "text": "9.3 PubMed Profile\nOnce you have your first publication in a peer-reviewed journal, you should set up a PubMed profile. With this account, you can track publications and add them to your PubMed bibliography, a persistent list of all your publications. PubMed also has a nifty Biosketch tool, for when you need to start creating Biosketches.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#google-scholar-profiles",
+    "href": "communication.html#google-scholar-profiles",
+    "title": "9  Communication",
+    "section": "9.4 Google Scholar profiles",
+    "text": "9.4 Google Scholar profiles\nHaving a Google Scholar profile is a very easy way to curate your web presence and have a place where people can find you and your published papers and reports.\nWe recommend everyone sets up a Google Scholar profile as soon as they have a paper or technical report. It takes about 5-10 minutes to set up, and one advantage is that Google Scholar self-updates and will add your papers and citations as you publish and people use your work. This is a really easy step to creating a web presence without having to set up a website. Note though that you need to check your profile periodically, as Google attributes articles to you incorrectly fairly often, particularly if you have a common name.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#personal-websites",
+    "href": "communication.html#personal-websites",
+    "title": "9  Communication",
+    "section": "9.5 Personal Websites",
+    "text": "9.5 Personal Websites\n\n9.5.1 Why have your own website?\n\nPeople will Google you. They might as well see what you want them to.\nGive people an easy way to find you and your work.\nIt will set you apart from the myriad other researchers who just have a (often half-baked) LinkedIn profile.\n\nOne way to do this is a personal website. This doesn’t have to be extensive, but can be a good way to curate your web presence.\nThere are heaps of tools out there to create and publish websites. Our recommendation is to choose something that it is easy to update, and fun / interesting for you to use. Many good options are free.\nSome options for creating sites include:\n\nGithub (what this website uses!)\nGoogle Sites\nWeebly\nSquarespace\nWordPress\nWix\n\n\n\n9.5.2 What should you include?\nUltimately this is up to you and how you would like to present yourself and your work. But some common things you could include are:\n\nCV or Biosketch\nResearch interests/overview/expertise\nProjects, including your roles\nPublications\nBlog posts\nContact info\n\nAn example website (though many amazing others exist and you should check those out): Dr. Smith’s website on github made with Quarto.\nIf you create your own, please let Dr. Smith know so he can link to it as well.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#twitter-or-similar",
+    "href": "communication.html#twitter-or-similar",
+    "title": "9  Communication",
+    "section": "9.6 Twitter or Similar",
+    "text": "9.6 Twitter or Similar\nTwitter is (or at least, was) a great tool for interacting with others about your science. It is also a great platform for learning about new research and papers, finding out about jobs and fellowships, learning and discussing methods, discussing topics about how we do science, professional development, mental health and expectations around science and graduate school, and is a great venue for bringing ones whole self to the science. etc. Most of us have our own personal Twitter accounts and use them to varying degress. Everyone in the lab can post to the lab Twitter account too. Ask Dr. Smith if you are interested in doing a takeover of CVmedLab account for a week (which could also be a chance to dip your toe in to Twitter if you don’t use it).\nIn addition to twitter, some users prefer Mastodon, which has some similarities to Twitter, but also some significant differences. The biggest difference is that there’s a lot of different iterations of Mastodon, depending on your interest. For example, Fosstodon has a lot of data science, statistics, and other data-driven researchers.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#other-social-media",
+    "href": "communication.html#other-social-media",
+    "title": "9  Communication",
+    "section": "9.7 Other Social Media",
+    "text": "9.7 Other Social Media\nAs you know, there are many social media platforms, and many (all?) of these are being used in some way for science communication. This includes but not limited to:\n\nTwitter\nInstagram\nFacebook\nLinkedIn\nTikTok\nYouTube\nResearchGate\n\nAll have a different purpose and type of engagement. Think deliberately about how (and if) you want to use these tools. Using social media as part of your science communication portfolio can be useful and is popular, but it is not a requirement to be a successful scientist. And, keep in mind, these can often be deleterious to your mental health. Use them wisely, if at all.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html#recommended-reading-list",
+    "href": "intro-how-we-work.html#recommended-reading-list",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "Core Concepts in Pharmacoepidemiology - a series of papers, published in PDS, which covers critical methodologic concepts in our area\nCausal Inference: What if? - an excellent (though dense) online book, by Miguel Hernan and Jamie Robins",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "intro-how-we-work.html",
+    "href": "intro-how-we-work.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "2.1 Recommended Reading List",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html",
+    "href": "culture-philosophy.html",
+    "title": "3  Lab culture and philosophy",
+    "section": "",
+    "text": "3.1 Ask for help, and share your learning\nWe are all learners, and most of our learning is done from each other. It is inefficient to struggle through problems alone. Take advantage of the team, as well as the larger POP and COP graduate programs. Ask for and give assistance with appropriate cognizance of the value of your time and the time of the person you are asking. You are not the first or last person to encounter a problem. When you identify a problem, make it known to the lab if you need help, and update it with solutions when it is resolved. Also consider writing a tutorial/blog post for inclusion in our lab’s “lab docs”, and share with the rest of the lab. Just showing us how you overcame a challenge is often an important step for stimulating others to think about how they’d approach the same challenge",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "data_resources.html",
+    "href": "data_resources.html",
+    "title": "15  Data Resources",
+    "section": "",
+    "text": "15.1 Electronic Health Record (EHR) data",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data Resources</span>"
+    ]
+  },
+  {
+    "objectID": "coding_resources.html",
+    "href": "coding_resources.html",
+    "title": "16  Coding Resources",
+    "section": "",
+    "text": "16.1 SAS\nAs noted above, SAS is the primary platform used in our program. We use SAS fairly extensively in our lab’s work as well, in part because it’s particularly good at working with massive datasets. SAS is available on all of our Virtual Machines/servers, and UF offers discounted annual licenses for SAS (as well as a free cloud-based SAS through UFApps) for enrolled students. More info on individual licenses can be found here for students and here for faculty/postdocs/staff. Note that staff/postdocs should get their license through the Department by contacting Carl Henriksen.\nSome folks like working in base SAS by itself. Others prefer SAS Enterprise Guide, which wraps around base SAS and provides some additional functionality. Try each, and see what you prefer.\nOne downside to SAS is it does not run natively on MacOS, so if you have a Mac, you’ll need Parallels, VMware, or similar hardware virtualization to create a windows drive, if you want SAS on your own system.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Coding Resources</span>"
+    ]
+  },
+  {
+    "objectID": "culture-philosophy.html#sec-come_prepared",
+    "href": "culture-philosophy.html#sec-come_prepared",
+    "title": "3  Lab culture and philosophy",
+    "section": "3.3 Come prepared and be engaged",
+    "text": "3.3 Come prepared and be engaged\nValue your time. Be present during lab and individual meetings, and come to your work ready to do your work. Contribute and participate in planning and lab discussions. When it is your turn to run a meeting, come with an agenda and be prepared with questions. Aim to view meetings as events that contribute to your work and productivity, rather than taking away from them. If something unexpected comes up, and you are just completely unprepared to have a meeting, try to find someone else to run group meetings, or for 1:1 meetings, let Dr. Smith know if you need to cancel.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Lab culture and philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "4  Code of Conduct",
+    "section": "",
+    "text": "4.1 Short version\nThe CVmedLab is dedicated to providing a harassment-free experience for everyone, regardless of age, race, or religion, sex, gender identity and expression, sexual orientation, disability, physical appearance, and so on. We do not tolerate harassment of members in any form. Everyone’s here to learn and hopefully succeed, and everyone’s worthy of respect.\nThis code of conduct applies to all lab spaces and interactions, including group and individual meetings (face to face and remote), workshops, social events, email correspondence, and web channels and code repositories, both online and off. Anyone who violates this code of conduct may be sanctioned and referred to the university’s academic policies.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "5  Onboarding",
+    "section": "",
+    "text": "5.1 COP/POP Web resources\nPOP/COP related resources, forms, policies, procedures, calendars, as generally housed on, or linked from the respective websites for POP and COP. A couple of specific COP sites will probably be more helpful to you, including the COP research office and the COP Grad Education office.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#reporting",
+    "href": "code-of-conduct.html#reporting",
+    "title": "4  Code of Conduct",
+    "section": "4.3 Reporting",
+    "text": "4.3 Reporting\nIn the unlikely event that you are being harassed by a member of the lab, or for that matter, anyone else at the university, or you notice that someone else is being harassed, or have any other concerns, please contact Dr. Smith. If you do not wish to involve Dr. Smith, please contact Dr. Rich Segal and/or the Associate Dean for Research at COP. We will respond as promptly as we can.\nLab members who believe they have been subjected to any kind of discrimination that conflicts with the University of Florida policies and/or the laws of the stateshould seek assistance from a supervisor or an HR representative.\nConfidentiality: Please remember that by way of his position at the university, Dr. Smith is mandated to report under Title IX. This means that he is not allowed to keep matters falling under Title IX confidential, and is required to disclose these incidents to the administration. You are welcome to discuss matters with Dr. Smith, but please keep this in mind when doing so. Dr. Smith will do his best to remind you of his responsibilities at the start of conversations anticipated to relate to these topics. More information on reporting can be found at the UF Title IX Reporting website.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Code of Conduct</span>"
+    ]
+  },
+  {
+    "objectID": "funding.html",
+    "href": "funding.html",
+    "title": "8  Funding",
+    "section": "",
+    "text": "8.1 Graduate Students\nFunding for graduate students in the College of Pharmacy is somewhat complicated (and subject to change). Typically, PhD students are funded by the College/Department for ~1 year (3-5 semesters, depending on the specifics of the student). Thereafter, funding is ultimately the responsibility of the faculty advisor. As a consequence, we do our best to plan ahead, taking students when we think we will have funding to cover them 2-4 years out from acceptance into the program. But, that also means sometimes we are not able to accept students when funding is tight or pending.\nFor the MS program, students are typically expected to self-fund their program.\nWhen we have grant-funded position openings in the lab, we will post these through the lab website, twitter account, and via other distribution feeds. Current members will be encouraged to reach out to their network to advertise the position also so that we can get the best candidates possible.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Funding</span>"
+    ]
+  },
+  {
+    "objectID": "academics.html",
+    "href": "academics.html",
+    "title": "10  Academics",
+    "section": "",
+    "text": "10.1 PhD Students",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Academics</span>"
+    ]
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "11  Courses",
+    "section": "",
+    "text": "11.1 Core Courses\nHere are the typical courses by semester. Do you absolutely have to follow this schedule? No, but it’s a good starting place.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Courses</span>"
+    ]
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "12  Abstracts and Conferences",
+    "section": "",
+    "text": "12.1 Where We Tend to Submit/Present\nThese are grouped somewhat arbitrarily, but may be helpful in thinking about what the message of a potential abstract is likely to be. Here’s the tl;dr, with additional details below.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Abstracts and Conferences</span>"
+    ]
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "13  Papers",
+    "section": "",
+    "text": "13.1 General Principles\nSome general principles for drafting your manuscript:",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Papers</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#exit-interview",
+    "href": "offboarding.html#exit-interview",
+    "title": "7  Offboarding",
+    "section": "",
+    "text": "7.1.1 Checklist for students, staff, and post docs\n\nSchedule exit interview with Dr. Smith\nCome prepared to discuss your experience: what you enjoyed the most, etc\nEnsure all data is backed up on ResVault or the POP server. Ensure that all data and critical code are documented; in particular, make sure there is clear documentation on what data/code needs to be reserved for pending papers. Remove all unneeded data/code from ResVault and/or POP server.\nReturn any university equipment (laptop, desktop, computer accessories, desk chairs, etc)\nDevelop a clear plan for publishing any remaining papers/reports/documentation\nReturn borrowed things to Dr. Smith (books, etc..)",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#project-documentation",
+    "href": "offboarding.html#project-documentation",
+    "title": "7  Offboarding",
+    "section": "7.2 Project Documentation",
+    "text": "7.2 Project Documentation\nProject work should be hosted either in ResVault, the POP server, or another approved, backed-up server (e.g., COP server, CVmedLab dropbox folder).\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if proprietary data). Ideally, the README should also include links to publications and presentations from the work.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#publications-and-presentations",
+    "href": "offboarding.html#publications-and-presentations",
+    "title": "7  Offboarding",
+    "section": "7.3 Publications and Presentations",
+    "text": "7.3 Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder on the CVmedLab dropbox folder.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#data",
+    "href": "offboarding.html#data",
+    "title": "7  Offboarding",
+    "section": "7.4 Data",
+    "text": "7.4 Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nHoused in an approved, backed-up location: ResVault, POP server, or other approved place (e.g., CVmedLab dropbox or COP server)\nLinked and briefly described in the project README.\n\nWhen data are no longer needed, it is imperative we minimize unnecessary data storage. Once a paper is published, and the project is not expected to generate any further publications/presentations, talk with Dr. Smith about whether the data can be destroyed or minimized.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#code",
+    "href": "offboarding.html#code",
+    "title": "7  Offboarding",
+    "section": "7.5 Code",
+    "text": "7.5 Code\nCode used or developed for the project should be complete and well-documented, including information in a README about what each file does and workflow to run the code, and saved on the same server as existing data. If the project is completed, code should be backed up and stored on the CVmedLab dropbox, and the virtual machine should be wound down. Make sure to include Dr. Smith in discussions about closing virtual machines.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#timelines-for-publications",
+    "href": "offboarding.html#timelines-for-publications",
+    "title": "7  Offboarding",
+    "section": "7.6 Timelines for publications",
+    "text": "7.6 Timelines for publications\nScience is not finished until it has been communicated. Hopefully, you will publish your results in the peer-reviewed literature so that others can learn and build from your work. During your exit interview, make a plan with Dr. Smith for remaining publications, including a timeline for submission. This is especially critical for dissertation publications.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#turning-in-equipment",
+    "href": "offboarding.html#turning-in-equipment",
+    "title": "7  Offboarding",
+    "section": "7.7 Turning in equipment",
+    "text": "7.7 Turning in equipment\nEnsure any lab equipment (e.g. computer and peripherals) you have been using has been returned to the lab, office furniture is present and accounted for. Make sure any problems with equipment are documented and that Dr. Smith has been made aware of them.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#maintaining-uf-access",
+    "href": "offboarding.html#maintaining-uf-access",
+    "title": "7  Offboarding",
+    "section": "7.8 Maintaining UF access",
+    "text": "7.8 Maintaining UF access\nTypically, Gatorlink access is available for a short period (a few weeks to months) after graduation; however, the reality is that not all work may be totally complete by the time you graduate. So, if more time is needed to access data, etc. talk with Dr. Smith about extending access. In some cases, courtesy appointments may be made for alumni to continue a formal relationship with UF that allows for maintenance of access to your gatorlink account for a defined period of time.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#working-hours",
+    "href": "expectations.html#working-hours",
+    "title": "6  Expectations",
+    "section": "7.2 Working hours",
+    "text": "7.2 Working hours\nAs in most of academia, the lab generally does not hold people to working a fixed schedule, or to be in the office on a certain schedule. We are all very capable of setting a working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab and as every day life happens. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with Dr. Smith to outline these.\nThough Dr. Smith often sends emails on evenings or on weekends (or whenever he can get around to his inbox), he does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during clear off hours.\nGraduate students are generally funded on annual research assistantship (RA) stipends, amounting to ~20 hrs of work per week. Typically, RAs are being paid from a research grant and in most cases, training to do that research is considered part of the job, so things like courses and additional time to read/learn methods, software, etc. are part of those work hours.\nWe do not expect team members to work excessively beyond the expected 20 hours per week on the RA work. That said, there are times in which a particular deliverable requires some additional work, and other times, where work might be lighter. Put another way, deadlines might require working &gt;20 hours in a given week; however, this should generally be the exception, not the rule, and you should average something fairly close to 20 hours/week in hours worked over the semester. If you are consistently working more hours than this, talk with Dr. Smith about your workload and expectations. As noted above, we do not enforce a particular working hours schedule because figuring out how to get work done on a schedule that works for you is an important part of the learning process during your graduate work.\nAlthough there are limited expectations on exactly when you need to be in the office, we want to stress that there is value to interacting with others as part of your work and, consequently, you are expected to be available during normal working hours for at least some of the time during the week. To the extent possible, we also expect you to try to join lab meetings/functions in person. That said, we recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#email",
+    "href": "expectations.html#email",
+    "title": "6  Expectations",
+    "section": "7.3 Email",
+    "text": "7.3 Email\nIn the lab, we communicate via email often. You should therefore check your email at least once a day during the normal work week. We also make use of Dropbox and Google Docs (and occasionally Microsoft Teams). Note that being available does not mean that you are available 24/7 - this is not expected. We do not (and you should not) expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members, including Dr. Smith, certainly may communicate during these times.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#attendance-at-regularly-scheduled-events",
+    "href": "expectations.html#attendance-at-regularly-scheduled-events",
+    "title": "6  Expectations",
+    "section": "7.4 Attendance at regularly scheduled events",
+    "text": "7.4 Attendance at regularly scheduled events\nIn-person attendance is expected at:\n\nAll departmental seminars\nAll CICMD seminars\nBi-weekly lab meetings\nIndividual meetings with Dr. Smith to discuss and work on your research (these can be zoom, if coordinated in advance)\nAny project meetings (these can be zoom, if coordinated in advance)\nOral qualifying and dissertation defenses of fellow lab members",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#engagement",
+    "href": "expectations.html#engagement",
+    "title": "6  Expectations",
+    "section": "7.5 Engagement",
+    "text": "7.5 Engagement\nWe share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within POP and the university, are supportive of others in our community during their milestones, actively participate in college, departmental or center events (e.g. the COP research showcase, CoDES or CICMD seminars, etc), and perform outreach. Ask others in the lab about activities they are part of, and work with Dr. Smith when crafting your IDP to identify engagement opportunities that meshes well with your goals.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#expectations-for-the-pi",
+    "href": "expectations.html#expectations-for-the-pi",
+    "title": "6  Expectations",
+    "section": "7.6 Expectations for the PI",
+    "text": "7.6 Expectations for the PI\nDr. Smith (as PI) will, at a minimum, provide:\n\nTechnical support for analysis (e.g., access to computing, training on techniques)\nPositive feedback & constructive criticism on work\nProfessional career support\nSupport for non-technical aspects of making career progress\nRegular meetings (typically every two weeks) to discuss work & maintain progress on goals\nProvide clear and honest appraisal of your funding situation",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#graduate-students",
+    "href": "expectations.html#graduate-students",
+    "title": "6  Expectations",
+    "section": "7.7 Graduate students",
+    "text": "7.7 Graduate students\nYou are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc.\nBefore registering for each semester, you are required to meet with your advisor (Dr. Smith) to review your progression in the program and your planned coursework and other activities for the forthcoming semester.\nWork with Dr. Smith when crafting and revisiting your IDPs and planned coursework during your academic program. Look beyond those offered in POP to include elsewhere at COM, PHHP, CLAS and other colleges at UF. Suggested coursework, including non-required coursework options are discussed in Chapter 11.\nGrad students should schedule regular individual meetings with Dr. Smith throughout the year. Typically during the fall and spring semesters these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Dr. Smith to discuss and work on your research. Thus they are your time, not Dr. Smith’s. Come with an agenda with a list of things that you want to accomplish and work on during that time. During the summer, lab members, including Dr. Smith, usually take some time away, so meetings may be scheduled less frequently.\nWe share our research at local, national, and international meetings, and publish our findings in the scientific literature. Dr. Smith strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.\n\n7.7.1 Funding\nDr. Smith does not typically accept students into the lab without being able to guarantee at least 3 years of full funding. Regardless of existing funding, students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in Chapter 8.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#individual-development-plans",
+    "href": "expectations.html#individual-development-plans",
+    "title": "6  Expectations",
+    "section": "7.1 Individual Development Plans",
+    "text": "7.1 Individual Development Plans\nIndividual development plans (IDPs) are expected of all individuals in the lab. This applies to Dr. Smith, to staff, and to trainees. Each member should first draft an IDP, using resources provided by the COP as part of your UF onboarding. Dr. Smith will work with each of you to further refine your IDP, which will serve as a roadmap to guide your time in the CVmedLab as it pertains to short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations and work. Graduate students will revisit their IDPs during an individual meeting with Dr. Smith at the end of each spring semester. Other lab members will revisit these at appropriate time scales (e.g. every 6-12 months).\nIn addition, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#postdoctoral-researchers-andor-research-faculty",
+    "href": "expectations.html#postdoctoral-researchers-andor-research-faculty",
+    "title": "6  Expectations",
+    "section": "7.8 Postdoctoral researchers and/or Research faculty",
+    "text": "7.8 Postdoctoral researchers and/or Research faculty\nPostdocs and research faculty are semi-independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position.\nIn general, these individuals are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences.\nProvide mentorship, technical support, and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with the PI\nWork independently and collaboratively\nParticipate in professional development opportunities\nLead and assist in designated research projects\nDevelop and submit proposals to fund future research",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#research-staff",
+    "href": "expectations.html#research-staff",
+    "title": "6  Expectations",
+    "section": "7.9 Research staff",
+    "text": "7.9 Research staff\nMuch like post-docs, research staff operate as independent and collaborative researchers on assigned projects. Meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.\nIn general, staff are expected to:\n\nBe present and involved in lab meetings, workshops, campus seminars, and conferences\nProvide technical support and assistance to other lab members\nCommunicate both successes and sticking points on a regular basis with PI\nWork independently and collaboratively\nLead and assist in designated research projects\nParticipate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])\nProduce expected output from assigned grants\nBe flexible! Additional projects may be assigned to give additional funding for your position\nServe as a role model and go-to resource for other members of the lab\n\nResearch staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Expectations</span>"
+    ]
   }
 ]

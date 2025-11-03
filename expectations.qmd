@@ -1,0 +1,103 @@
+---
+title: "Expectations"
+---
+
+# Expectations {#sec-expectations}
+
+Everyone has their own path in the graduate program, so we're not looking to place undue burden on making students conform to a very particular path to your MS or PhD degree. That said, there are some expectations on lab members that we hope make things run smoothly. 
+
+## Individual Development Plans
+
+Individual development plans (IDPs) are expected of all individuals in the lab. This applies to Dr. Smith, to staff, and to trainees. Each member should first draft an IDP, using resources provided by the COP as part of your UF onboarding. Dr. Smith will work with each of you to further refine your IDP, which will serve as a roadmap to guide your time in the CVmedLab as it pertains to short, medium, and long-term goals. This is a useful planning document that assists in aligning expectations and work. Graduate students will revisit their IDPs during an individual meeting with Dr. Smith at the end of each spring semester. Other lab members will revisit these at appropriate time scales (e.g. every 6-12 months).
+
+In addition, it is useful to have broad (for all lab members) and specific (i.e., grad students, research staff, etc.) expectations of our roles clarified. These are outlined below.
+
+## Working hours
+
+As in most of academia, the lab generally does not hold people to working a fixed schedule, or to be in the office on a certain schedule. We are all very capable of setting a working schedule that is the right fit for us, and it is likely that what this ‘fit’ is will change over the course of the time you are in the lab and as every day life happens. Depending on the nature of your appointment, there may be specific hours that will need to be worked and you should work with Dr. Smith to outline these.
+
+Though Dr. Smith often sends emails on evenings or on weekends (or whenever he can get around to his inbox), he does not expect that people in the lab are available at these times. Lab members should also not expect others to be available during clear off hours.
+
+Graduate students are generally funded on annual research assistantship (RA) stipends, amounting to ~20 hrs of work per week. Typically, RAs are being paid from a research grant and in most cases, training to do that research is considered part of the job, so things like courses and additional time to read/learn methods, software, etc. are part of those work hours. 
+
+We do not expect team members to work excessively beyond the expected 20 hours per week on the RA work. That said, there are times in which a particular deliverable requires some additional work, and other times, where work might be lighter. Put another way, deadlines might require working >20 hours in a given week; however, this should generally be the exception, not the rule, and you should average something fairly close to 20 hours/week in hours worked over the semester. If you are consistently working more hours than this, talk with Dr. Smith about your workload and expectations. As noted above, we do not enforce a particular working hours schedule because figuring out how to get work done on a schedule that works for you is an important part of the learning process during your graduate work. 
+
+Although there are limited expectations on exactly when you need to be in the office, we want to stress that **there is value to interacting with others as part of your work** and, consequently, you are expected to be available during normal working hours for at least some of the time during the week. To the extent possible, we **also expect you to try to join lab meetings/functions in person**. That said, we recognize that there will occasionally be times where there is a need to work more to meet a deadline, but this should be the exception - an expectation of overwork is not to be normalized.
+
+## Email
+
+In the lab, we communicate via email often. You should therefore check your email at least once a day during the normal work week. We also make use of Dropbox and Google Docs (and occasionally Microsoft Teams). Note that being available does not mean that you are available 24/7 - this is not expected. We do not (and you should not) expect responses to emails after regular business hours on weekdays, or on weekends. However, because we recognize that lab members should be able to create a working schedule that is right for them, lab members, including Dr. Smith, certainly may communicate during these times.
+
+## Attendance at regularly scheduled events
+
+In-person attendance is expected at:
+
+*   **All** departmental seminars
+*   **All** CICMD seminars
+*   Bi-weekly lab meetings
+*   Individual meetings with Dr. Smith to discuss and work on your research (these can be zoom, if coordinated in advance)
+*   Any project meetings (these can be zoom, if coordinated in advance)
+*   Oral qualifying and dissertation defenses of fellow lab members
+
+## Engagement 
+
+We share our learning and time with others beyond our lab, knowing that this builds community and ultimately improves both the quality and impact of our science. This doesn’t mean individuals do everything, however. We take on leadership roles within POP and the university, are supportive of others in our community during their milestones, actively participate in college, departmental or center events (e.g. the COP research showcase, CoDES or CICMD seminars, etc), and perform outreach. Ask others in the lab about activities they are part of, and work with Dr. Smith when crafting your IDP to identify engagement opportunities that meshes well with your goals.
+
+## Expectations for the PI
+
+Dr. Smith (as PI) will, at a minimum, provide:
+
+*   Technical support for analysis (e.g., access to computing, training on techniques)
+*   Positive feedback & constructive criticism on work
+*   Professional career support
+*   Support for non-technical aspects of making career progress
+*   Regular meetings (typically every two weeks) to discuss work & maintain progress on goals
+*   Provide clear and honest appraisal of your funding situation
+
+## Graduate students
+
+You are responsible for your degree. This means you need to stay on top of program and university deadlines, requirements, etc. 
+
+Before registering for each semester, you are required to meet with your advisor (Dr. Smith) to review your progression in the program and your planned coursework and other activities for the forthcoming semester.
+
+Work with Dr. Smith when crafting and revisiting your IDPs and planned coursework during your academic program. Look beyond those offered in POP to include elsewhere at COM, PHHP, CLAS and other colleges at UF. Suggested coursework, including non-required coursework options are discussed in @sec-courses.
+
+Grad students should schedule regular individual meetings with Dr. Smith throughout the year. Typically during the fall and spring semesters these will take place every two weeks, although there may be times when more regular meetings are needed. Meetings are a chance for you to get focused time with Dr. Smith to discuss and work on your research. Thus they are your time, not Dr. Smith's. Come with an agenda with a list of things that you want to accomplish and work on during that time. During the summer, lab members, including Dr. Smith, usually take some time away, so meetings may be scheduled less frequently. 
+
+We share our research at local, national, and international meetings, and publish our findings in the scientific literature. Dr. Smith strives to provide financial support for grad students to attend at least one major conference per year. You should expect to give a presentation (a poster or a talk) on your work at these.
+
+### Funding
+
+Dr. Smith does not typically accept students into the lab without being able to guarantee at least 3 years of full funding. Regardless of existing funding, students are encouraged to seek and apply for extramural funding to support their work. This includes scholarships and fellowships to pay for salary, but also smaller grants for travel, workshop attendance, or research costs. There are many opportunities out there, particularly for students. Some resources are outlined in @sec-funding.
+
+## Postdoctoral researchers and/or Research faculty
+
+Postdocs and research faculty are semi-independent researchers and likely will have significant collaboration with researchers at other institutions as part of their research and position. 
+
+In general, these individuals are expected to:
+
+*   Be present and involved in lab meetings, workshops, campus seminars, and conferences.
+*   Provide mentorship, technical support, and assistance to other lab members
+*   Communicate both successes and sticking points on a regular basis with the PI
+*   Work independently and collaboratively
+*   Participate in professional development opportunities
+*   Lead and assist in designated research projects
+*   Develop and submit proposals to fund future research
+
+## Research staff
+
+Much like post-docs, research staff operate as independent and collaborative researchers on assigned projects. Meetings may be more frequent than those with others in the lab. Weekly meetings should have clear agendas, and can often be used as collaborative working time to make progress on specific tasks.
+
+In general, staff are expected to:
+
+*   Be present and involved in lab meetings, workshops, campus seminars, and conferences
+*   Provide technical support and assistance to other lab members
+*   Communicate both successes and sticking points on a regular basis with PI
+*   Work independently and collaboratively
+*   Lead and assist in designated research projects
+*   Participate in professional development opportunities (i.e., workshops, conferences, submitting previous position manuscripts [without detracting from new position])
+*   Produce expected output from assigned grants
+*   Be flexible! Additional projects may be assigned to give additional funding for your position
+*   Serve as a role model and go-to resource for other members of the lab
+
+Research staff positions may be somewhat flexible in scope. For example, the position may include some lab management, leadership, and communication responsibilities. Exact set of responsibilities and duties will be clearly defined in your position description and expectations agreed on in your work plan.

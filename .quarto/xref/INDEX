@@ -13,5 +13,50 @@
   },
   "publications.qmd": {
     "publications.html": "b7fcc81d"
+  },
+  "intro-how-we-work.qmd": {
+    "intro-how-we-work.html": "6f3bd9fa"
+  },
+  "culture-philosophy.qmd": {
+    "culture-philosophy.html": "accdf2cb"
+  },
+  "code-of-conduct.qmd": {
+    "code-of-conduct.html": "7c561b4c"
+  },
+  "onboarding.qmd": {
+    "onboarding.html": "d0965f01"
+  },
+  "expectations.qmd": {
+    "expectations.html": "4e0fd4a1"
+  },
+  "offboarding.qmd": {
+    "offboarding.html": "629a1e18"
+  },
+  "funding.qmd": {
+    "funding.html": "e6a6df50"
+  },
+  "communication.qmd": {
+    "communication.html": "86530611"
+  },
+  "academics.qmd": {
+    "academics.html": "4ad6826b"
+  },
+  "courses.qmd": {
+    "courses.html": "c0df43a4"
+  },
+  "conferences.qmd": {
+    "conferences.html": "9c050620"
+  },
+  "papers.qmd": {
+    "papers.html": "f166de27"
+  },
+  "computing.qmd": {
+    "computing.html": "9771611b"
+  },
+  "data_resources.qmd": {
+    "data_resources.html": "98fcb181"
+  },
+  "coding_resources.qmd": {
+    "coding_resources.html": "d55d01b5"
   }
 }

@@ -1,0 +1,65 @@
+# Courses {#sec-courses}
+
+Our program has a set of core (required) coursework, which is to be supplemented by elective coursework relevant to the student's interests. Below, we try to outline the required coursework, as well as some options for electives that might be of interest; in cases where our lab members have taken these courses, we try to include some notes re: the course. That said - graduate courses sometimes change frequently, both in terms of faculty teaching the course and the specific content. So, your best bet is to talk with your colleagues who have taken the course recently, and get their opinion.
+
+## Core Courses
+
+Here are the typical courses by semester. Do you absolutely have to follow this schedule? No, but it's a good starting place. 
+
+### Year 1
+
+Intro to Grad Studies (college-wide course) will take place across all of Year 1. 
+
+#### Fall:
+
+-   Intro to Biostatistical Methods (PHC 6052) - this is a mix of theory and applied methods (in SAS)
+
+-   Intro to Pharmacoepidemiology (PHA 6891)
+
+-   Principles of Pharmacoeconomics (PHA 6935)
+
+-   Public Health Computing (PHC 6089) - SAS & R
+
+-   Intro to US Health Care Systems (HSA 6114) - only required for students with little/no exposure to U.S. healthcare system; this course could also be taken in year 2 fall. 
+
+#### Spring:
+
+-   Regression Methods for Health & Life Sciences (PHC 6053) - another mix of theory and applied methods (in SAS)
+
+-   Intro to POP Research (PHA 6265)
+
+-   Principles of Evidence-Based Practice (PHA 5244 or PHA 6935)
+
+#### Summer:
+
+-   Life cycle of a drug (college-wide class)
+
+### Year 2
+
+#### Fall:
+
+-   Applied Survival Analysis (PHC 6059) - SAS-based
+
+-   Data Analysis and Interpretation (PHA 6805) - SAS-based
+
+-   Intermediate Pharmacoepidemiology (PHA 6268) - 
+
+#### Spring: 
+
+-   Measurement (PHA 6717)
+
+-   Grant Writing (PHC 7727 or PET 5936) - both courses are good; Dr. Cottler's (PHC 7727) is more epi-focused, whereas Dr. Powers' course (PET 5936) is a bit broader. Both are focused on putting together an NIH-style grant. **You should plan to write an actual submittable grant, ideally in line with your dissertation, during this course**. See @sec-funding for potential grant options. 
+
+-   Manuscript/Scholarly Writing (course TBD)
+
+### Year 3 (or possibly 4)
+
+-   Advanced Pharmacoepidemiology (PHA 7807) - this is an optional course in the PhD program, but we require it for our lab. 
+
+## Elective Courses
+
+Much of your elective credits will be for independent (pre-dissertation) or advanced research (dissertation) credits. However, there may be a few other courses that are worth exploring. 
+
+-   Biostatistical Graphics & Data Visualization (PHC 6791)
+
+-   Causal Inference (PHC 6937)

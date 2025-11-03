@@ -1,0 +1,193 @@
+---
+tbl-cap-location: bottom
+fig-cap-location: top
+---
+
+# Abstracts and Conferences {#sec-conferences}
+
+Submitting abstracts and presenting at conferences (research meetings) is an important component of your graduate/post-graduate training. There are many benefits to such presentations, but to name a few:
+
+-   Getting your name out there as a researcher with expertise in an area
+
+-   Learning how to effectively summarize and present your data, both in visual format and as a speaker
+
+-   Getting invited to submit your manuscript to a journal (lots of Editorial team members make the rounds at posters looking for content for their journal)
+
+-   Networking and meeting potential collaborators that you will see again and again throughout your career
+
+-   Learning about other cutting-edge research or methods in your field -- checking out posters/presentations is a great place to find ideas for your own future research or dissertation!
+
+-   Representing your lab and your training program to the rest of the world
+
+## Where We Tend to Submit/Present
+
+These are grouped somewhat arbitrarily, but may be helpful in thinking about what the message of a potential abstract is likely to be. Here's the tl;dr, with additional details below.
+
+| Locality of Meeting | Meeting/Conference                                                 | Meeting Month | Abstract Due Month (Approx.) | Clinical or Methods |
+|---------------|---------------|---------------|---------------|---------------|
+| Local               | COP Research Showcase                                              | February      | December                     | Both                |
+| Local               | COM Celebration of Research                                        | February      | December                     | Both                |
+| Local               | CICMD Annual Research Showcase                                     | May           | March                        | Both                |
+| National            | AHA Scientific Sessions                                            | November      | June                         | Clinical            |
+| National            | AHA Hypertension Scientific Sessions                               | September     | May                          | Clinical            |
+| National            | AHA Epi/Lifestyle Scientific Sessions                              | Feb - March   | October                      | Both\*              |
+| National            | American College of Cardiology                                     | May           | September                    | Clinical            |
+| International       | International Conference for Pharmacoepidemiology (ICPE)           | August        | February                     | Both                |
+| International       | ICPE Mid-year                                                      | April         | December                     | Both                |
+| International       | International Society for Pharmaceutical Outcomes Research (ISPOR) | May           | January                      | Both                |
+| National            | American College of Clinical Pharmacy (ACCP)                       | October       | March                        | Clinical            |
+| National            | American Medical Informatics Association (AMIA) Annual Symposium   | November      | March                        | Both                |
+
+: \*See text below for specific details.
+
+### Local Research Meetings
+
+#### The COP Research Showcase
+
+Each year, in February, the UFCOP hosts the Research Showcase, featuring all the work of our trainees (post-docs, graduate students and PharmD students). All post-docs, as well as graduate students (2nd year, onward) are expected to present at this meeting ; 1st year grad students are also very welcome, if they have work to present. You are encouraged to apply for both the poster and oral presentation slots, but at a minimum, will be invited to present a poster. Typically, this meeting is held in HPNP (posters in the Atrium and throughout the first floor, and presentations in the main lecture hall).
+
+Abstracts can be submitted to the Research Showcase, whether or not you have already submitted, or plan to submit, the abstract to a larger meeting. Submitting at the Research Showcase will not preempt you from presenting the research elsewhere. In fact, it is a very good idea to submit the same abstract to the COP Research Showcase and a national meeting (two birds, one stone and all).
+
+#### The COM Celebration of Research
+
+Likewise, the COM holds their research showcase, called "Celebration of Research" in February typically, with posters/presentations done on the floor of the O'Connell Center. This is quite similar to the COP showcase, and the same information above applies. Typically, most, if not all abstracts, are accepted, and presenting here will not preempt your ability to present elsewhere, including COP Research Showcase and national meetings.
+
+### Cardiology/Cardiometabolic Conferences
+
+#### American Heart Association (AHA) Scientific Sessions
+
+The [AHA Scientific Sessions](https://professional.heart.org/en/meetings/scientific-sessions) is a huge meeting, and the premier cardiology-focused meeting in the world. Typically the meeting is in November. It is a clinically-focused meeting, so abstracts should have clear clinical implications; methods-heavy work is usually not ideal.
+
+#### AHA Council Meetings (Hypertension & Epi-Lifestyle)
+
+The [AHA](https://www.heart.org/) is broken up into "Councils" (various focus areas within the broader CV community). There are two council meetings we frequently present at: **Hypertension Scientific Sessions** and the **Epi/Lifestyle Scientific Sessions**. Hypertension is a bigger meeting, but epi/pharmacoepi is only a component of it; much of the work presented there is basic or clinical. Still, it's a good place for hypertension-related work with a clinical focus. Epi/lifestyle is smaller and does take some more methods-focused work, provided it's specifically relevant to CV research.
+
+#### American College of Cardiology
+
+The [ACC](https://www.acc.org/) Annual Meeting is Another large meeting, though not as big as AHA. Often (but not always) held in D.C. This is another clinically-focused meeting, broadly focused on cardiovascular disease. Methods work is less likely to get traction here.
+
+### Pharmacoepi/Pharmaceutical Outcomes Conferences
+
+#### ICPE
+
+ICPE is the annual meeting of the [International Society for Pharmacoepidemiology](https://pharmacoepi.org/), held every other year in North America and elsewhere on the off-years (often Europe, but not always). Always in August. This is a very p-epi focused meeting, but both clinical and methods work is acceptable. Students are often able to get travel grants for this meeting. You should try to present work here at least once during your training program, and it is an excellent place to network within our field.
+
+#### ISPE Mid-year
+
+ICPEs little sibling, primarily held for students in the spring. Another good opportunity to present your clinically- or methods-focused work. It is smaller than ICPE, but the programming is tailored towards students/trainees.
+
+#### ISPOR
+
+[ISPOR](https://www.ispor.org/) is a relatively bigger meeting than ICPE, and heavily attended by industry. If you're interested in an industry career, you should attend ISPOR at least once. Will accept both clinically-focused and methods-focused work, and very friendly to student submissions.
+
+### ACCP
+
+Regrettably, pharmacy organizations do not have any particularly research-focused meetings. The [American College of Clinical Pharmacy](https://www.accp.com/) Annual Meeting is probably the best of the group, but the quality of the research here is variable and sometimes not as high as many of the above conferences. That said, if you want to get some networking experience in pharmacy circles, this is a good meeting. Note that the programming is very heavy on "clinical" -- good for generating research ideas (i.e., understanding where important gaps still exist), but you will not get exposure to much research methodology.
+
+### AMIA Annual Symposium
+
+[AMIA](https://amia.org/) has a large number of meetings each year (you can see the list [here](https://amia.org/education-events)). This is a very informatics-focused group, but potentially some of our work may fit here, particularly methods-related work.
+
+### Other Meetings
+
+There are a million other meetings that might be of interest to you and/or relevant to a particular project. Others worth considering:
+
+-   [Society for Epidemiologic Research](https://epiresearch.org/annual-meeting/)
+
+-   [American Geriatrics Society](https://meeting.americangeriatrics.org/)
+
+-   [Kidney Week](https://www.asn-online.org/education/kidneyweek/) ([American Society of Nephrology](https://www.asn-online.org/))
+
+-   [AcademyHealth](https://academyhealth.org/ARM) (somewhat more HSR and health policy-focused)
+
+The above is by no means a comprehensive list. If you learn of others that may be interest to the group, please add them by clicking the Edit this page github link at the bottom of the right menu.
+
+## Poster Templates
+
+So you got your abstract accepted - congrats! The UFCOP and CoDES center have branded slides for a presentation, as well as a templated poster that can be used to create your poster.
+
+But, before you choose a poster template, consider whether we need to coordinate with others presenting at the same meeting:
+
+``` {mermaid}
+flowchart TB
+  A[Other POP/CoDES members presenting?] --> B((Yes))
+  B --> C[Other CVmedLab members presenting?]
+  C --> D((Yes))
+  C --> E((No))
+  D --> F(Coordinate same template)
+  E --> G(Use any POP/Codes template w/ CVmedLab logo)
+  A --> H((No))
+  H --> I(Use whatever template you like)
+```
+
+Here are several templates that allow for consistency between lab presentations, and also with other POP/CoDES presentations:
+
+::: {#fig-portrait_posters layout-ncol="2"}
+[![](/assets/templates/posters/poster-template-portrait-CoDES.png)](/assets/templates/posters/poster-template-portrait-2022.pptx)
+
+[![](/assets/templates/posters/poster-template-portrait-UF.png)](/assets/templates/posters/poster-template-portrait-2019-UF.pptx)
+
+Portrait Posters
+:::
+
+::: {#fig-landscape_posters layout-ncol="2"}
+[![](/assets/templates/posters/poster-template-landscape-CoDES.png)](/assets/templates/posters/poster-template-landscape-2022.pptx)
+
+[![](/assets/templates/posters/poster-template-landscape-UF.png)](/assets/templates/posters/poster-template-landscape-2019-UF.pptx)
+
+Landscape Posters
+:::
+
+::: {#fig-other_posters layout-ncol="2"}
+[![](/assets/templates/posters/BP_interfering_meds_poster.png)](/assets/templates/posters/BP%20interfering%20meds%20poster%20draft%20final.pptx)
+
+[![](/assets/templates/posters/ASH_TRH_trends_poster.png)](/assets/templates/posters/ASH%20Marketscan%20TRH%20Trends%202016%20FINAL.pptx)
+
+Some other templates we've used in the past
+:::
+
+::: callout-note
+# Acknowledging Support
+
+Make sure to consider who supported the work we're presenting. For example, if [CoDES](https://codes.pharmacy.ufl.edu/) data were used, or travel support was provided from, e.g., [CICMD](https://cicmd.center.ufl.edu/), or the work was funded in whole or in part by another organization (e.g., UF [COP](https://pharmacy.ufl.edu/), [CTSI](https://www.ctsi.ufl.edu) or an external funder like PhRMA or AHA), we should make sure these are acknowledged in the poster (or powerpoint) presentation. If available, consider adding the logo of the supporter and including appropriate text in the Acknowledgement section of the poster/presentation.
+:::
+
+## Where to Print a Poster
+
+UF [Printing Services](https://print.at.ufl.edu/help/printing-locations/) maintain a list of printing services/locations on UF campus. For posters, you will need a **plotter**, which is only available at some of the locations on the above website.
+
+Additional options can be found at the [Orthopedics and Sports Medicine Institute](https://www.ortho.ufl.edu/poster-service), as well as other businesses in Gainesville (e.g., [Target Copy](https://target-copy.com/)), but UF options are likely to be least expensive.
+
+Your best bet is to **ask your fellow trainees** where they're getting their posters printed. New options pop up all the time, and they can probably give you the best sense of what has worked for them -- and what hasn't.
+
+::: callout-tip
+# Poster sizing
+
+Be careful with L x W *dimensions* of your poster file vs. the eventual printed poster. The portrait poster templates above are 36" (W) x \~50" (L) and the landscape poster templates are \~55" (W) x \~35" (L). Most of the plotter printers print a maximum of 36" in one of the dimensions (W or L, depending on orientation of the poster) and essentially unlimited in the other dimension. So, both of these will be printed at about 100% scale. The other (older) templates are at 18" x 36", so would be printed at 200% scale. The point is, you need to understand at what scale you're printing -- or better yet, get someone at the printing office to help scale it correctly.
+
+Finally, your best bet is usually to save your PPTX file to a PDF (vector-based image) that will print without losing quality at any adjusted scale. And, where possible, use vector-based figures (SVG, EPS, or PDF) -- these, too, will scale without losing quality, whereas raster-based figures (PNG, JPG, TIF, etc..) will not. If you go with the latter, make sure you save them as big enough images that you don't need to scale them up substantially to be able to print a large poster.
+:::
+
+## Presentation Templates
+
+So you got your abstract accepted as a platform presentation - congrats! We have templates for these too. However, check closely the invitation from the meeting organizers. Often platform presentations are expected to use a template from the meeting, which provides consistency across presentations at the meeting.
+
+Presentation Templates:
+
+-   [COP Template 1](/assets/templates/presentations/2017-cop-16x9-external-presentations-1.pptx) - basic template
+
+-   [COP Template 2](/assets/templates/presentations/2017-cop-16x9-external-presentations-2.pptx) - basic template
+
+-   [UF Template 2022](/assets/templates/presentations/UF-PowerPoint_Template_2022.potx) - this has a ton of ideas for different types of slides worth a look even if just for ideas)
+
+-   [Older UF Template](/assets/templates/presentations/UF_branded_PowerPoint_template_widescreen.ppt)
+
+The [UF Brand Center](https://brandcenter.ufl.edu/downloads/) also has a lot of other assets that can be added to presentations or posters and is worth looking through.
+
+## Support for Presenting at Conferences
+
+The lab will cover the cost of poster printing for posters of lab research. Discuss with the POP Administrative Assistant (Gabby or other) how best to pay for or get reimbursed for this. For the COP research showcase, the POP department covers the cost. You'll need to seek approval from Dr. Segal. 
+
+You should seek out sources of support for travel and other costs associated with attending conferences. The [CICMD](https://cicmd.center.ufl.edu/) helps offset travel if you have an accepted poster/presentation (you will need to acknowledge the support of CICMD). Many conferences also offer travel support for trainees.
+
+Speak to your colleagues in the department for other possible sources of support
