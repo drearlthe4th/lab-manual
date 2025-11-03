@@ -1,0 +1,9 @@
+---
+title: "Publications"
+---
+
+- Add selected publications here (short list).
+- Link to full list on Google Scholar / ORCID.
+
+### Citation style
+You can maintain a `references.bib` and render a formatted list with `quarto-biblio` later.

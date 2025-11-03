@@ -1,7 +1,14 @@
 ---
-title: "lab-manual"
+title: "Welcome"
 ---
 
-This is a Quarto website.
+::: {.lead}
+We generate decision-ready real-world evidence in pharmacoepidemiology and medication safety.
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Highlights
+- Antihypertensive deprescribing & fall risk in older adults
+- Medical cannabis safety & cardiovascular outcomes
+- Prescribing cascades and polypharmacy
+
+**Start here:** Read our [Lab Manual](lab-manual.qmd) for how we work, or see our [Projects](projects.qmd).

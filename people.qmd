@@ -1,0 +1,16 @@
+---
+title: "People"
+---
+
+## Principal Investigator
+- **Earl Morris, PhD** — Pharmacoepidemiology & medication safety
+
+## Students & Trainees
+- Add names, roles, and 1–2 line bios.
+
+## Alumni
+- Add placements and dates.
+
+> ::: {.callout-tip}
+> Keep this page current—prospective students look here first.
+> :::

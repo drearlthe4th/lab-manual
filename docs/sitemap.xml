@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://drearlthe4th.github.io/lab-manual/about.html</loc>
-    <lastmod>2025-11-03T20:23:26.393Z</lastmod>
+    <loc>https://drearlthe4th.github.io/lab-manual/people.html</loc>
+    <lastmod>2025-11-03T21:40:43.671Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drearlthe4th.github.io/lab-manual/publications.html</loc>
+    <lastmod>2025-11-03T21:41:56.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drearlthe4th.github.io/lab-manual/projects.html</loc>
+    <lastmod>2025-11-03T21:41:26.780Z</lastmod>
   </url>
   <url>
     <loc>https://drearlthe4th.github.io/lab-manual/index.html</loc>
-    <lastmod>2025-11-03T20:23:26.392Z</lastmod>
+    <lastmod>2025-11-03T21:37:51.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drearlthe4th.github.io/lab-manual/about.html</loc>
+    <lastmod>2025-11-03T21:24:04.184Z</lastmod>
   </url>
 </urlset>

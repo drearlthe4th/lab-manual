@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+## Ongoing
+- **Antihypertensive deprescribing after falls** — EHR + claims phenotyping, NLP rationale extraction, multilevel modeling.
+- **Medical cannabis & cardiovascular outcomes** — Case-time-control, cohort studies using Medicare/Medicaid.
+
+## Completed
+- Add short summaries with links to outputs.
+
+## Get involved
+- Expectations, typical timelines, and contact info.

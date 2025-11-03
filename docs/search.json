@@ -1,16 +1,79 @@
 [
   {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Earl Morris, PhD — Pharmacoepidemiology & medication safety"
+  },
+  {
+    "objectID": "people.html#principal-investigator",
+    "href": "people.html#principal-investigator",
+    "title": "People",
+    "section": "",
+    "text": "Earl Morris, PhD — Pharmacoepidemiology & medication safety"
+  },
+  {
+    "objectID": "people.html#students-trainees",
+    "href": "people.html#students-trainees",
+    "title": "People",
+    "section": "Students & Trainees",
+    "text": "Students & Trainees\n\nAdd names, roles, and 1–2 line bios."
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nAdd placements and dates.\n\n\n\n\n\n\n\n\nTip\n\n\n\nKeep this page current—prospective students look here first."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add selected publications here (short list).\nLink to full list on Google Scholar / ORCID.\n\n\nCitation style\nYou can maintain a references.bib and render a formatted list with quarto-biblio later."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Antihypertensive deprescribing after falls — EHR + claims phenotyping, NLP rationale extraction, multilevel modeling.\nMedical cannabis & cardiovascular outcomes — Case-time-control, cohort studies using Medicare/Medicaid."
+  },
+  {
+    "objectID": "projects.html#ongoing",
+    "href": "projects.html#ongoing",
+    "title": "Projects",
+    "section": "",
+    "text": "Antihypertensive deprescribing after falls — EHR + claims phenotyping, NLP rationale extraction, multilevel modeling.\nMedical cannabis & cardiovascular outcomes — Case-time-control, cohort studies using Medicare/Medicaid."
+  },
+  {
+    "objectID": "projects.html#completed",
+    "href": "projects.html#completed",
+    "title": "Projects",
+    "section": "Completed",
+    "text": "Completed\n\nAdd short summaries with links to outputs."
+  },
+  {
+    "objectID": "projects.html#get-involved",
+    "href": "projects.html#get-involved",
+    "title": "Projects",
+    "section": "Get involved",
+    "text": "Get involved\n\nExpectations, typical timelines, and contact info."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "We generate decision-ready real-world evidence in pharmacoepidemiology and medication safety.\n\n\nHighlights\n\nAntihypertensive deprescribing & fall risk in older adults\nMedical cannabis safety & cardiovascular outcomes\nPrescribing cascades and polypharmacy\n\nStart here: Read our Lab Manual for how we work, or see our Projects."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "lab-manual",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]

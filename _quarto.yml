@@ -3,12 +3,30 @@ project:
   output-dir: docs
 
 website:
-  title: "Morris Lab Manual"
+  title: "Morris Research Group"
   site-url: https://drearlthe4th.github.io/lab-manual/
   search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: lab-manual.qmd
+        text: Lab Manual
+    right:
+      - icon: github
+        href: https://github.com/drearlthe4th/lab-manual
 
 format:
   html:
     theme:
       - cosmo
+      - styles/labmanual.scss
     toc: true
+    toc-depth: 3
+    number-sections: false
